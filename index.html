@@ -163,6 +163,34 @@
             right: 10px;
         }
 
+        /* Botón Microsoft */
+        .microsoft-button {
+            position: fixed;
+            bottom: 20px;
+            right: 10px;
+            z-index: 1001;
+            background: #0078D4;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        .microsoft-button:hover {
+            background: #005a9e;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+        }
+
+        .microsoft-button.active {
+            background: #D32F2F;
+        }
+
         /* Media queries para móviles */
         @media (max-width: 768px) {
             .route-selector {
@@ -172,6 +200,13 @@
             .menu-toggle {
                 width: 45px;
                 height: 45px;
+            }
+
+            .microsoft-button {
+                bottom: 15px;
+                right: 10px;
+                padding: 10px 16px;
+                font-size: 12px;
             }
 
             h3 {
@@ -230,6 +265,9 @@
 
     <!-- Overlay -->
     <div class="overlay" id="overlay"></div>
+
+    <!-- Botón Microsoft Santa Fe -->
+    <button class="microsoft-button" id="microsoftButton">Microsoft Santa Fe</button>
 
     <!-- Sidebar con rutas -->
     <div class="route-selector" id="routeSelector">
@@ -679,6 +717,69 @@
                     setTimeout(closeMenu, 300);
                 }
             });
+        });
+
+        // Botón Microsoft Santa Fe
+        const microsoftCoords = [19.3599, -99.2599]; // Coordenadas de Microsoft Santa Fe
+        const rutasMicrosoft = ['9c', '76', '76a', '110']; // Rutas que pasan cerca de Microsoft
+
+        document.getElementById('microsoftButton').addEventListener('click', function() {
+            // Si el botón ya está activo, deseleccionar y limpiar
+            if (this.classList.contains('active')) {
+                limpiarMapa();
+                this.classList.remove('active');
+            } else {
+                // Limpiar mapa
+                limpiarMapa();
+
+                // Mostrar solo las rutas que pasan por Microsoft
+                rutasMicrosoft.forEach(numeroRuta => {
+                    const color = coloresPorRuta[numeroRuta] || '#558B2F';
+
+                    // Mostrar ambas direcciones
+                    [0, 1].forEach(indice => {
+                        const ruta = rutasData[numeroRuta][indice];
+
+                        const polyline = L.polyline(ruta.coordenadas, {
+                            color: color,
+                            weight: 4,
+                            opacity: 0.7,
+                            smoothFactor: 1
+                        }).addTo(map);
+
+                        polyline.bindPopup(`<b>${numeroRuta.toUpperCase()}</b><br>${ruta.nombre}`);
+
+                        todasLasRutas.push(polyline);
+                    });
+                });
+
+                // Agregar marcador en Microsoft Santa Fe
+                const microsoftMarker = L.marker(microsoftCoords, {
+                    icon: L.icon({
+                        iconUrl: 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNCIgZmlsbD0iIzAwNzhENCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIi8+PHRleHQgeD0iMTYiIHk9IjIxIiBmb250LXNpemU9IjE2IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TTwvdGV4dD48L3N2Zz4=',
+                        iconSize: [32, 32],
+                        iconAnchor: [16, 16]
+                    })
+                }).addTo(map);
+
+                microsoftMarker.bindPopup('<b>Microsoft Santa Fe</b><br>Vasco de Quiroga 3200');
+
+                // Guardar marcador para limpiarlo después
+                rutaActual = {
+                    polyline: null,
+                    markerInicio: microsoftMarker,
+                    markerFin: null
+                };
+
+                // Centrar mapa en Microsoft con zoom apropiado
+                map.setView(microsoftCoords, 14);
+
+                // Activar botón
+                this.classList.add('active');
+
+                // Desactivar otros botones
+                document.querySelectorAll('.route-button').forEach(btn => btn.classList.remove('active'));
+            }
         });
     </script>
 </body>
