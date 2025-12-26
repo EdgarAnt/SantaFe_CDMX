@@ -1,0 +1,4443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>RTP | Ruta 112 | Ampliación Jalalpa - Metro Tacubaya (Av. Jalisco)</name>
+    <description>Costo: $2.00</description>
+    <Style id="icon-ci-1-labelson">
+      <IconStyle>
+        <scale>0.8</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="line-558B2F-4000-nodesc-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>4</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-558B2F-4000-nodesc-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-558B2F-4000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-558B2F-4000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-558B2F-4000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-7CB342-4000-nodesc-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>4</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-7CB342-4000-nodesc-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-7CB342-4000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7CB342-4000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7CB342-4000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ruta</name>
+      <Placemark>
+        <name>Jalalpa - M. Tacubaya</name>
+        <styleUrl>#line-558B2F-4000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.249284,19.364312,0
+            -99.249215,19.364445,0
+            -99.248982,19.364622,0
+            -99.248778,19.36486,0
+            -99.24843,19.365303,0
+            -99.248243,19.365552,0
+            -99.247704,19.366262,0
+            -99.247435,19.366552,0
+            -99.247277,19.366708,0
+            -99.246785,19.367102,0
+            -99.24639,19.367323,0
+            -99.246146,19.367438,0
+            -99.246137,19.367442,0
+            -99.245834,19.367523,0
+            -99.245286,19.367655,0
+            -99.24441,19.367859,0
+            -99.244116,19.368007,0
+            -99.24411,19.368015,0
+            -99.244099,19.368019,0
+            -99.243825,19.368164,0
+            -99.243592,19.368355,0
+            -99.243455,19.368556,0
+            -99.24323,19.368844,0
+            -99.242966,19.369198,0
+            -99.242885,19.369303,0
+            -99.242783,19.369373,0
+            -99.242195,19.369764,0
+            -99.240781,19.370686,0
+            -99.240126,19.371141,0
+            -99.239219,19.371672,0
+            -99.238786,19.371919,0
+            -99.238116,19.372276,0
+            -99.237729,19.372438,0
+            -99.236819,19.372859,0
+            -99.236054,19.373201,0
+            -99.235629,19.373428,0
+            -99.235384,19.373591,0
+            -99.235197,19.373775,0
+            -99.234936,19.374168,0
+            -99.234382,19.37498,0
+            -99.233675,19.375988,0
+            -99.232947,19.377041,0
+            -99.232746,19.377334,0
+            -99.232663,19.377392,0
+            -99.232436,19.377513,0
+            -99.230717,19.37841,0
+            -99.230252,19.378635,0
+            -99.229315,19.379101,0
+            -99.228114,19.379452,0
+            -99.228045,19.379455,0
+            -99.227996,19.379409,0
+            -99.22792,19.379145,0
+            -99.22783,19.378799,0
+            -99.22777,19.378623,0
+            -99.227711,19.378473,0
+            -99.227605,19.378377,0
+            -99.227415,19.378291,0
+            -99.22717,19.378223,0
+            -99.226869,19.378178,0
+            -99.226698,19.378196,0
+            -99.226531,19.378271,0
+            -99.226318,19.378436,0
+            -99.226196,19.378598,0
+            -99.22608,19.378829,0
+            -99.226054,19.378996,0
+            -99.226054,19.379109,0
+            -99.226076,19.37924,0
+            -99.226076,19.379359,0
+            -99.226014,19.379468,0
+            -99.225944,19.379614,0
+            -99.225849,19.379802,0
+            -99.22567,19.380002,0
+            -99.225513,19.380138,0
+            -99.225359,19.380274,0
+            -99.225146,19.380532,0
+            -99.224952,19.380801,0
+            -99.224705,19.381024,0
+            -99.224395,19.381389,0
+            -99.224085,19.381722,0
+            -99.223777,19.382023,0
+            -99.223631,19.382218,0
+            -99.223511,19.382362,0
+            -99.223363,19.382449,0
+            -99.223111,19.382563,0
+            -99.222506,19.382762,0
+            -99.222079,19.382893,0
+            -99.221793,19.382995,0
+            -99.221655,19.383074,0
+            -99.221263,19.383304,0
+            -99.221132,19.383391,0
+            -99.221104,19.383419,0
+            -99.221084,19.383474,0
+            -99.221108,19.383571,0
+            -99.221144,19.383604,0
+            -99.221211,19.383645,0
+            -99.221307,19.383684,0
+            -99.221388,19.383718,0
+            -99.221421,19.38375,0
+            -99.221432,19.383901,0
+            -99.221402,19.384017,0
+            -99.221344,19.384082,0
+            -99.221217,19.384147,0
+            -99.221011,19.384204,0
+            -99.220646,19.38429,0
+            -99.220364,19.384399,0
+            -99.220014,19.384548,0
+            -99.219831,19.384574,0
+            -99.219604,19.384595,0
+            -99.219487,19.384574,0
+            -99.21943,19.38454,0
+            -99.219354,19.384474,0
+            -99.219255,19.384404,0
+            -99.219117,19.384338,0
+            -99.219015,19.384293,0
+            -99.218873,19.384254,0
+            -99.218662,19.384237,0
+            -99.218136,19.384166,0
+            -99.217918,19.384108,0
+            -99.217771,19.38406,0
+            -99.217706,19.383982,0
+            -99.217689,19.383916,0
+            -99.217597,19.383782,0
+            -99.217489,19.383698,0
+            -99.217306,19.383537,0
+            -99.217185,19.383452,0
+            -99.217054,19.383373,0
+            -99.216723,19.383334,0
+            -99.216175,19.38328,0
+            -99.215908,19.383246,0
+            -99.215682,19.383217,0
+            -99.215478,19.383231,0
+            -99.215314,19.383249,0
+            -99.215151,19.383269,0
+            -99.214861,19.383322,0
+            -99.214359,19.383539,0
+            -99.214065,19.383658,0
+            -99.213681,19.383765,0
+            -99.21325,19.383853,0
+            -99.212933,19.383903,0
+            -99.212735,19.383915,0
+            -99.212551,19.383869,0
+            -99.212434,19.383827,0
+            -99.211874,19.383632,0
+            -99.211505,19.383541,0
+            -99.211278,19.383464,0
+            -99.211086,19.383398,0
+            -99.210954,19.383332,0
+            -99.210848,19.383279,0
+            -99.210542,19.383027,0
+            -99.210315,19.382863,0
+            -99.209977,19.382777,0
+            -99.209846,19.382743,0
+            -99.209556,19.382562,0
+            -99.209284,19.38238,0
+            -99.209079,19.382231,0
+            -99.208902,19.382055,0
+            -99.20848,19.381449,0
+            -99.208163,19.381088,0
+            -99.208042,19.380952,0
+            -99.207938,19.3809,0
+            -99.207745,19.380886,0
+            -99.207174,19.380972,0
+            -99.20699,19.381047,0
+            -99.20664,19.381111,0
+            -99.205514,19.381419,0
+            -99.205165,19.381554,0
+            -99.204311,19.381841,0
+            -99.204005,19.381923,0
+            -99.202881,19.382258,0
+            -99.202471,19.382377,0
+            -99.202207,19.382497,0
+            -99.201904,19.38271,0
+            -99.201704,19.382809,0
+            -99.201496,19.382818,0
+            -99.201177,19.382799,0
+            -99.201062,19.382784,0
+            -99.20077,19.382642,0
+            -99.200611,19.382511,0
+            -99.20048,19.382365,0
+            -99.200305,19.382028,0
+            -99.200272,19.381861,0
+            -99.200197,19.381597,0
+            -99.200104,19.381369,0
+            -99.200044,19.381235,0
+            -99.199922,19.380992,0
+            -99.199835,19.381018,0
+            -99.19977,19.381174,0
+            -99.199721,19.381386,0
+            -99.199613,19.381747,0
+            -99.199481,19.382209,0
+            -99.199401,19.382342,0
+            -99.199305,19.38241,0
+            -99.19914,19.382457,0
+            -99.197663,19.382934,0
+            -99.197184,19.383116,0
+            -99.197173,19.383121,0
+            -99.19677,19.383291,0
+            -99.195415,19.383718,0
+            -99.194763,19.383981,0
+            -99.194421,19.384181,0
+            -99.19407,19.384313,0
+            -99.19299,19.384681,0
+            -99.192702,19.384743,0
+            -99.192264,19.384816,0
+            -99.191014,19.384853,0
+            -99.190753,19.38482,0
+            -99.190473,19.384777,0
+            -99.190368,19.384709,0
+            -99.190301,19.384606,0
+            -99.190256,19.384508,0
+            -99.190253,19.384407,0
+            -99.190328,19.384333,0
+            -99.190375,19.384294,0
+            -99.190467,19.384248,0
+            -99.190644,19.384244,0
+            -99.190762,19.384283,0
+            -99.19083,19.384329,0
+            -99.190839,19.384383,0
+            -99.190857,19.384426,0
+            -99.190601,19.384958,0
+            -99.190179,19.386014,0
+            -99.18991,19.387084,0
+            -99.189519,19.388629,0
+            -99.189164,19.390004,0
+            -99.188834,19.391305,0
+            -99.188475,19.392576,0
+            -99.18826,19.393335,0
+            -99.188242,19.393623,0
+            -99.188207,19.393884,0
+            -99.188417,19.394649,0
+            -99.188535,19.394906,0
+            -99.188702,19.395311,0
+            -99.188891,19.39574,0
+            -99.189338,19.396754,0
+            -99.189613,19.397567,0
+            -99.189703,19.397751,0
+            -99.189719,19.39784,0
+            -99.189716,19.397917,0
+            -99.189659,19.398039,0
+            -99.189461,19.398412,0
+            -99.189095,19.39904,0
+            -99.188817,19.399524,0
+            -99.188713,19.39966,0
+            -99.188651,19.399767,0
+            -99.18863,19.399828,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>M. Tacubaya - Jalalpa</name>
+        <styleUrl>#line-7CB342-4000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.18863,19.399831,0
+            -99.188603,19.39989,0
+            -99.188593,19.399947,0
+            -99.188289,19.400466,0
+            -99.187899,19.401117,0
+            -99.187262,19.402189,0
+            -99.187104,19.4024,0
+            -99.187042,19.402476,0
+            -99.186963,19.40271,0
+            -99.186913,19.402953,0
+            -99.18682,19.403214,0
+            -99.18658,19.403574,0
+            -99.186363,19.403944,0
+            -99.186023,19.404489,0
+            -99.185603,19.405245,0
+            -99.185569,19.405284,0
+            -99.185503,19.405292,0
+            -99.184692,19.405217,0
+            -99.184614,19.405195,0
+            -99.184582,19.405157,0
+            -99.184558,19.405122,0
+            -99.184669,19.403822,0
+            -99.184761,19.402792,0
+            -99.18484,19.401693,0
+            -99.184926,19.400488,0
+            -99.184972,19.400001,0
+            -99.185038,19.399421,0
+            -99.185161,19.398045,0
+            -99.185279,19.396889,0
+            -99.185425,19.39555,0
+            -99.185542,19.394401,0
+            -99.185648,19.393456,0
+            -99.185839,19.391696,0
+            -99.185927,19.390889,0
+            -99.18606,19.389704,0
+            -99.186158,19.388826,0
+            -99.186285,19.387752,0
+            -99.186357,19.387009,0
+            -99.186452,19.385921,0
+            -99.186531,19.385589,0
+            -99.186562,19.385446,0
+            -99.186616,19.385293,0
+            -99.186686,19.385259,0
+            -99.186831,19.385236,0
+            -99.187529,19.385259,0
+            -99.188283,19.385266,0
+            -99.189487,19.385191,0
+            -99.191625,19.384986,0
+            -99.192235,19.384896,0
+            -99.193072,19.384726,0
+            -99.193697,19.384538,0
+            -99.194816,19.384149,0
+            -99.195333,19.383922,0
+            -99.196866,19.383417,0
+            -99.197414,19.383226,0
+            -99.198433,19.38291,0
+            -99.199718,19.382518,0
+            -99.200151,19.382384,0
+            -99.200279,19.382415,0
+            -99.200371,19.38249,0
+            -99.200457,19.382571,0
+            -99.200681,19.382764,0
+            -99.200838,19.382854,0
+            -99.201197,19.382963,0
+            -99.2015,19.382999,0
+            -99.201682,19.382987,0
+            -99.201827,19.38297,0
+            -99.202068,19.382802,0
+            -99.202366,19.382593,0
+            -99.202545,19.382503,0
+            -99.20273,19.382437,0
+            -99.203761,19.382104,0
+            -99.204433,19.381874,0
+            -99.204491,19.381901,0
+            -99.204534,19.382005,0
+            -99.204671,19.38244,0
+            -99.204839,19.382745,0
+            -99.204954,19.382864,0
+            -99.205336,19.383106,0
+            -99.205975,19.383425,0
+            -99.206251,19.383584,0
+            -99.206639,19.383723,0
+            -99.207101,19.383876,0
+            -99.207509,19.384005,0
+            -99.20791,19.38409,0
+            -99.20807,19.384069,0
+            -99.208271,19.384037,0
+            -99.210056,19.383631,0
+            -99.210844,19.383445,0
+            -99.210963,19.383458,0
+            -99.211135,19.383503,0
+            -99.211801,19.383686,0
+            -99.21212,19.383786,0
+            -99.212282,19.383854,0
+            -99.21251,19.383948,0
+            -99.212681,19.383992,0
+            -99.212846,19.384009,0
+            -99.21299,19.383994,0
+            -99.21322,19.383953,0
+            -99.213781,19.383846,0
+            -99.213984,19.383786,0
+            -99.214145,19.383729,0
+            -99.214574,19.383548,0
+            -99.214773,19.383457,0
+            -99.215003,19.383387,0
+            -99.215215,19.383358,0
+            -99.215654,19.383319,0
+            -99.215845,19.383331,0
+            -99.216165,19.383382,0
+            -99.216662,19.38343,0
+            -99.216867,19.383456,0
+            -99.217057,19.383524,0
+            -99.217259,19.383643,0
+            -99.217365,19.383738,0
+            -99.217525,19.3839,0
+            -99.217606,19.384007,0
+            -99.217731,19.384109,0
+            -99.217861,19.384159,0
+            -99.21816,19.384256,0
+            -99.21844,19.384305,0
+            -99.21889,19.384367,0
+            -99.219126,19.384427,0
+            -99.21922,19.384483,0
+            -99.219314,19.38457,0
+            -99.21947,19.384647,0
+            -99.219629,19.38466,0
+            -99.21986,19.384643,0
+            -99.220046,19.384595,0
+            -99.220231,19.384527,0
+            -99.220482,19.384425,0
+            -99.220726,19.384385,0
+            -99.221025,19.38432,0
+            -99.221237,19.38425,0
+            -99.221435,19.38416,0
+            -99.221555,19.384031,0
+            -99.221563,19.383918,0
+            -99.221527,19.38383,0
+            -99.221519,19.383727,0
+            -99.221458,19.38366,0
+            -99.221363,19.383623,0
+            -99.221296,19.383594,0
+            -99.221239,19.383548,0
+            -99.221214,19.38347,0
+            -99.221221,19.383422,0
+            -99.221281,19.383379,0
+            -99.221419,19.383302,0
+            -99.221732,19.383106,0
+            -99.221831,19.383047,0
+            -99.222092,19.382954,0
+            -99.222482,19.382833,0
+            -99.223009,19.382676,0
+            -99.223057,19.382658,0
+            -99.223132,19.382628,0
+            -99.223232,19.382582,0
+            -99.22329,19.382555,0
+            -99.223344,19.382535,0
+            -99.223448,19.382492,0
+            -99.223481,19.382477,0
+            -99.223555,19.382435,0
+            -99.223604,19.382393,0
+            -99.22364,19.382351,0
+            -99.223722,19.382235,0
+            -99.223817,19.382092,0
+            -99.224054,19.381822,0
+            -99.224201,19.381712,0
+            -99.224343,19.381546,0
+            -99.224502,19.381374,0
+            -99.224974,19.380885,0
+            -99.225178,19.380656,0
+            -99.225243,19.380562,0
+            -99.225318,19.380443,0
+            -99.225396,19.380355,0
+            -99.225495,19.380266,0
+            -99.225542,19.38022,0
+            -99.225677,19.380123,0
+            -99.225782,19.380027,0
+            -99.225872,19.379924,0
+            -99.22592,19.379844,0
+            -99.226049,19.379623,0
+            -99.226123,19.379447,0
+            -99.226159,19.379326,0
+            -99.22617,19.37922,0
+            -99.226159,19.379146,0
+            -99.226144,19.379042,0
+            -99.226158,19.378919,0
+            -99.22618,19.378844,0
+            -99.226218,19.378743,0
+            -99.22627,19.378651,0
+            -99.226353,19.378566,0
+            -99.226446,19.378467,0
+            -99.226544,19.378371,0
+            -99.22665,19.378311,0
+            -99.226755,19.378283,0
+            -99.226911,19.378289,0
+            -99.227073,19.378297,0
+            -99.227268,19.378341,0
+            -99.22748,19.378415,0
+            -99.227585,19.378477,0
+            -99.227641,19.37852,0
+            -99.227686,19.378652,0
+            -99.227857,19.379135,0
+            -99.227966,19.379497,0
+            -99.227991,19.379548,0
+            -99.228061,19.379547,0
+            -99.228106,19.379547,0
+            -99.228566,19.379412,0
+            -99.229259,19.379224,0
+            -99.229431,19.379155,0
+            -99.229853,19.378942,0
+            -99.230969,19.378379,0
+            -99.2321,19.377796,0
+            -99.232738,19.377459,0
+            -99.232817,19.3774,0
+            -99.232873,19.377318,0
+            -99.233197,19.37683,0
+            -99.233614,19.376235,0
+            -99.233935,19.375773,0
+            -99.234384,19.375137,0
+            -99.234606,19.374806,0
+            -99.235089,19.374126,0
+            -99.235258,19.373874,0
+            -99.235344,19.373776,0
+            -99.235423,19.373692,0
+            -99.235557,19.373592,0
+            -99.235776,19.373454,0
+            -99.236009,19.373333,0
+            -99.236228,19.373227,0
+            -99.236848,19.372945,0
+            -99.237296,19.372733,0
+            -99.237703,19.372546,0
+            -99.23838,19.372222,0
+            -99.238849,19.371988,0
+            -99.239703,19.371505,0
+            -99.239962,19.371342,0
+            -99.240144,19.371231,0
+            -99.240368,19.371077,0
+            -99.240586,19.370928,0
+            -99.240829,19.37077,0
+            -99.241282,19.370464,0
+            -99.241772,19.370161,0
+            -99.24239,19.369741,0
+            -99.24276,19.369486,0
+            -99.242836,19.369432,0
+            -99.242926,19.369364,0
+            -99.24302,19.369262,0
+            -99.243187,19.369058,0
+            -99.243349,19.368836,0
+            -99.243414,19.368761,0
+            -99.243599,19.368529,0
+            -99.243695,19.368408,0
+            -99.243825,19.368298,0
+            -99.24395,19.368229,0
+            -99.244259,19.368031,0
+            -99.244403,19.367957,0
+            -99.24456,19.367911,0
+            -99.245126,19.367765,0
+            -99.245991,19.367562,0
+            -99.246144,19.367531,0
+            -99.246343,19.367467,0
+            -99.246499,19.367381,0
+            -99.247036,19.367047,0
+            -99.247224,19.3669,0
+            -99.24754,19.366617,0
+            -99.247868,19.366264,0
+            -99.248148,19.365888,0
+            -99.248568,19.365347,0
+            -99.248795,19.365041,0
+            -99.249004,19.364754,0
+            -99.249093,19.364659,0
+            -99.249228,19.364559,0
+            -99.249269,19.364514,0
+            -99.249387,19.364364,0
+            -99.249422,19.364316,0
+            -99.249438,19.364256,0
+            -99.249409,19.364221,0
+            -99.249369,19.364212,0
+            -99.249315,19.364252,0
+            -99.249285,19.364309,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Paradas dirección Metro Tacubaya (Viaducto)</name>
+      <Placemark>
+        <name>Jalalpa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.364278<br>Longitud: -99.24926145<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.364278<br>Longitud: -99.24926145<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.364278
+Longitud: -99.24926145
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.364278</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24926145</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.249261,19.364278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chavarrillo</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.366052<br>Longitud: -99.247851<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.366052<br>Longitud: -99.247851<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.366052
+Longitud: -99.247851
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.366052</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.247851</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.247851,19.366052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cuatotolapan</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.367236<br>Longitud: -99.246500<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.367236<br>Longitud: -99.246500<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.367236
+Longitud: -99.246500
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.367236</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.246500</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2465,19.367236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colipa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36768<br>Longitud: -99.24502<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36768<br>Longitud: -99.24502<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36768
+Longitud: -99.24502
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36768</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24502</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24502,19.36768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casitas</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36873<br>Longitud: -99.24330<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36873<br>Longitud: -99.24330<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36873
+Longitud: -99.24330
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36873</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24330</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2433,19.36873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prepa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36967<br>Longitud: -99.24233<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36967<br>Longitud: -99.24233<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36967
+Longitud: -99.24233
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36967</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24233</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24233,19.36967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secundaria</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37092<br>Longitud: -99.24045<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37092<br>Longitud: -99.24045<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37092
+Longitud: -99.24045
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37092</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24045</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24045,19.37092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fortín</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37211<br>Longitud: -99.23836<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37211<br>Longitud: -99.23836<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37211
+Longitud: -99.23836
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37211</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23836</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23836,19.37211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Encinal</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37286<br>Longitud: -99.23680<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37286<br>Longitud: -99.23680<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37286
+Longitud: -99.23680
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37286</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23680</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2368,19.37286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 1</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37452<br>Longitud: -99.23468<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37452<br>Longitud: -99.23468<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37452
+Longitud: -99.23468
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37452</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23468</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23468,19.37452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Primaria</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.375697<br>Longitud: -99.233855<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.375697<br>Longitud: -99.233855<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.375697
+Longitud: -99.233855
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.375697</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.233855</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.233855,19.375697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andador 1</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.377246<br>Longitud: -99.232774<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.377246<br>Longitud: -99.232774<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.377246
+Longitud: -99.232774
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.377246</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.232774</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.232774,19.377246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OXXO</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.378147<br>Longitud: -99.231215<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.378147<br>Longitud: -99.231215<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.378147
+Longitud: -99.231215
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.378147</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.231215</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.231215,19.378147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galeana</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.378940<br>Longitud: -99.229606<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.378940<br>Longitud: -99.229606<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.378940
+Longitud: -99.229606
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.378940</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.229606</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.229606,19.37894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Josefa Ortíz de Domínguez</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.379419<br>Longitud: -99.228213<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.379419<br>Longitud: -99.228213<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.379419
+Longitud: -99.228213
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.379419</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.228213</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.228213,19.379419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Niños Héroes</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.379137<br>Longitud: -99.226050<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.379137<br>Longitud: -99.226050<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.379137
+Longitud: -99.226050
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.379137</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.226050</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22605,19.379137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Capilla</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.379834<br>Longitud: -99.225796<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.379834<br>Longitud: -99.225796<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.379834
+Longitud: -99.225796
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.379834</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.225796</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.225796,19.379834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Francisco Villa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.380732<br>Longitud: -99.225004<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.380732<br>Longitud: -99.225004<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.380732
+Longitud: -99.225004
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.380732</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.225004</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.225004,19.380732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nicolás Bravo</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.382237<br>Longitud: -99.223589<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.382237<br>Longitud: -99.223589<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.382237
+Longitud: -99.223589
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.382237</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.223589</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.223589,19.382237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Presa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383977<br>Longitud: -99.221388<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383977<br>Longitud: -99.221388<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383977
+Longitud: -99.221388
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383977</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.221388</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.221388,19.383977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cda. Chicago</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.384566<br>Longitud: -99.219835<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.384566<br>Longitud: -99.219835<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.384566
+Longitud: -99.219835
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.384566</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.219835</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.219835,19.384566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. México</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383685<br>Longitud: -99.217479<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383685<br>Longitud: -99.217479<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383685
+Longitud: -99.217479
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383685</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.217479</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.217479,19.383685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cuernavaca</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383284<br>Longitud: -99.216066<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383284<br>Longitud: -99.216066<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383284
+Longitud: -99.216066
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383284</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.216066</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.216066,19.383284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Omega</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383402<br>Longitud: -99.214673<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383402<br>Longitud: -99.214673<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383402
+Longitud: -99.214673
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383402</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.214673</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.214673,19.383402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liconsa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383855<br>Longitud: -99.213306<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383855<br>Longitud: -99.213306<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383855
+Longitud: -99.213306
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383855</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.213306</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.213306,19.383855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manrresanos</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383721<br>Longitud: -99.212172<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383721<br>Longitud: -99.212172<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383721
+Longitud: -99.212172
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383721</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.212172</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.212172,19.383721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Venus</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383044<br>Longitud: -99.210644<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383044<br>Longitud: -99.210644<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383044
+Longitud: -99.210644
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383044</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.210644</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.210644,19.383044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saturno</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38220<br>Longitud: -99.20917<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38220<br>Longitud: -99.20917<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38220
+Longitud: -99.20917
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38220</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20917</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20917,19.3822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neptuno</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38149<br>Longitud: -99.20853<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38149<br>Longitud: -99.20853<br>Empalme: -<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38149
+Longitud: -99.20853
+Empalme: -
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38149</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20853</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20853,19.38149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minas</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38088<br>Longitud: -99.20777<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38088<br>Longitud: -99.20777<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38088
+Longitud: -99.20777
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38088</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20777</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20777,19.38088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3ra. Cda. de Minas</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38175<br>Longitud: -99.20448<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38175<br>Longitud: -99.20448<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38175
+Longitud: -99.20448
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38175</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20448</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20448,19.38175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1ra. Cda. de Minas</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38235<br>Longitud: -99.20254<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38235<br>Longitud: -99.20254<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38235
+Longitud: -99.20254
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38235</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20254</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20254,19.38235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nicanor Arvide</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38241<br>Longitud: -99.20056<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38241<br>Longitud: -99.20056<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38241
+Longitud: -99.20056
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38241</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20056</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20056,19.38241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión 1</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38145<br>Longitud: -99.20013<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38145<br>Longitud: -99.20013<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38145
+Longitud: -99.20013
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38145</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20013</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20013,19.38145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión 2</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.382391<br>Longitud: -99.199136<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.382391<br>Longitud: -99.199136<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.382391
+Longitud: -99.199136
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.382391</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.199136</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.199136,19.382391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Demet</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383059<br>Longitud: -99.197210<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383059<br>Longitud: -99.197210<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383059
+Longitud: -99.197210
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383059</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.197210</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19721,19.383059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Libería Delti</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383599<br>Longitud: -99.195523<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383599<br>Longitud: -99.195523<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383599
+Longitud: -99.195523
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383599</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.195523</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.195523,19.383599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Periférico</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.384669<br>Longitud: -99.190555<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.384669<br>Longitud: -99.190555<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.384669
+Longitud: -99.190555
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.384669</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.190555</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.190555,19.384669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 10</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38930<br>Longitud: -99.18931<br>Empalme: 57/119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38930<br>Longitud: -99.18931<br>Empalme: 57/119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38930
+Longitud: -99.18931
+Empalme: 57/119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38930</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18931</value>
+          </Data>
+          <Data name="Empalme">
+            <value>57/119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18931,19.3893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 4</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39101<br>Longitud: -99.18885<br>Empalme: 57/119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39101<br>Longitud: -99.18885<br>Empalme: 57/119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39101
+Longitud: -99.18885
+Empalme: 57/119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39101</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18885</value>
+          </Data>
+          <Data name="Empalme">
+            <value>57/119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18885,19.39101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 de Abril</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.395167<br>Longitud: -99.18865819<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.395167<br>Longitud: -99.18865819<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.395167
+Longitud: -99.18865819
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.395167</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18865819</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.188658,19.395167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Jalisco</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.397668<br>Longitud: -99.18959513<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.397668<br>Longitud: -99.18959513<br>Empalme: 119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.397668
+Longitud: -99.18959513
+Empalme: 119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.397668</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18959513</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.189595,19.397668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viaducto</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.399881<br>Longitud: -99.18853783<br>Empalme: 112/118/119<br>Dirección: Metro Tacubaya (Viaducto)<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.399881<br>Longitud: -99.18853783<br>Empalme: 112/118/119<br>Dirección: Metro Tacubaya (Viaducto)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.399881
+Longitud: -99.18853783
+Empalme: 112/118/119
+Dirección: Metro Tacubaya (Viaducto)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.399881</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18853783</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112/118/119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Viaducto)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.188538,19.399881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Paradas dirección Ampliación Jalalpa</name>
+      <Placemark>
+        <name>Viaducto</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.399881<br>Longitud: -99.18853783<br>Empalme: 112/118/119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.399881<br>Longitud: -99.18853783<br>Empalme: 112/118/119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.399881
+Longitud: -99.18853783
+Empalme: 112/118/119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.399881</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18853783</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112/118/119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.188538,19.399881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cartagena</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.401947<br>Longitud: -99.187348<br>Empalme: 115/118/119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.401947<br>Longitud: -99.187348<br>Empalme: 115/118/119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.401947
+Longitud: -99.187348
+Empalme: 115/118/119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.401947</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.187348</value>
+          </Data>
+          <Data name="Empalme">
+            <value>115/118/119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.187348,19.401947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Revolución</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.405195<br>Longitud: -99.184694<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.405195<br>Longitud: -99.184694<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.405195
+Longitud: -99.184694
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.405195</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.184694</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.184694,19.405195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>José Martí</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.40358<br>Longitud: -99.18472<br>Empalme: 13A/115A/119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.40358<br>Longitud: -99.18472<br>Empalme: 13A/115A/119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.40358
+Longitud: -99.18472
+Empalme: 13A/115A/119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.40358</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18472</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18472,19.40358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro Tacubaya</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.40163<br>Longitud: -99.18485<br>Empalme: 13A/115A/119/200<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.40163<br>Longitud: -99.18485<br>Empalme: 13A/115A/119/200<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.40163
+Longitud: -99.18485
+Empalme: 13A/115A/119/200
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.40163</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18485</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/119/200</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18485,19.40163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heroes de 1810</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39784<br>Longitud: -99.18525<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39784<br>Longitud: -99.18525<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39784
+Longitud: -99.18525
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39784</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18525</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18525,19.39784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 de Abril</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39609<br>Longitud: -99.18542<br>Empalme: 13A/115A/119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39609<br>Longitud: -99.18542<br>Empalme: 13A/115A/119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39609
+Longitud: -99.18542
+Empalme: 13A/115A/119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39609</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18542</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18542,19.39609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clínica 9 IMSS</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39273<br>Longitud: -99.18576<br>Empalme: 13A/115A/119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39273<br>Longitud: -99.18576<br>Empalme: 13A/115A/119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39273
+Longitud: -99.18576
+Empalme: 13A/115A/119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39273</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18576</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18576,19.39273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro San Pedro de los Pinos</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39161<br>Longitud: -99.18593<br>Empalme: 13A/115A/119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39161<br>Longitud: -99.18593<br>Empalme: 13A/115A/119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39161
+Longitud: -99.18593
+Empalme: 13A/115A/119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39161</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18593</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18593,19.39161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 10</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38938<br>Longitud: -99.18618<br>Empalme: 13A/115A/119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38938<br>Longitud: -99.18618<br>Empalme: 13A/115A/119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38938
+Longitud: -99.18618
+Empalme: 13A/115A/119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38938</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18618</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18618,19.38938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 22</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.386142<br>Longitud: -99.186588<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.386142<br>Longitud: -99.186588<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.386142
+Longitud: -99.186588
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.386142</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.186588</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.186588,19.386142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Los Pinos</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.385420<br>Longitud: -99.188583<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.385420<br>Longitud: -99.188583<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.385420
+Longitud: -99.188583
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.385420</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.188583</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.188583,19.38542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Periférico</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.384998<br>Longitud: -99.191788<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.384998<br>Longitud: -99.191788<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.384998
+Longitud: -99.191788
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.384998</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.191788</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.191788,19.384998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Libería Delti</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.384026<br>Longitud: -99.195186<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.384026<br>Longitud: -99.195186<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.384026
+Longitud: -99.195186
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.384026</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.195186</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.195186,19.384026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Demet</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383499<br>Longitud: -99.196826<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383499<br>Longitud: -99.196826<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383499
+Longitud: -99.196826
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383499</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.196826</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.196826,19.383499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión 1</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.382772<br>Longitud: -99.199038<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.382772<br>Longitud: -99.199038<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.382772
+Longitud: -99.199038
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.382772</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.199038</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.199038,19.382772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión 2</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.382431<br>Longitud: -99.200104<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.382431<br>Longitud: -99.200104<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.382431
+Longitud: -99.200104
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.382431</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.200104</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.200104,19.382431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1ra. Cda. de Minas</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.382644<br>Longitud: -99.202348<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.382644<br>Longitud: -99.202348<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.382644
+Longitud: -99.202348
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.382644</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.202348</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.202348,19.382644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3ra. Cda. de Minas</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.381937<br>Longitud: -99.204318<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.381937<br>Longitud: -99.204318<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.381937
+Longitud: -99.204318
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.381937</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.204318</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.204318,19.381937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Zorro</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383622<br>Longitud: -99.206189<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383622<br>Longitud: -99.206189<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383622
+Longitud: -99.206189
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383622</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.206189</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.206189,19.383622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Pepsi</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383613<br>Longitud: -99.210422<br>Empalme: 119<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383613<br>Longitud: -99.210422<br>Empalme: 119<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383613
+Longitud: -99.210422
+Empalme: 119
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383613</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.210422</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.210422,19.383613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manrresanos</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383733<br>Longitud: -99.211960<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383733<br>Longitud: -99.211960<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383733
+Longitud: -99.211960
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383733</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.211960</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21196,19.383733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liconsa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383960<br>Longitud: -99.213145<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383960<br>Longitud: -99.213145<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383960
+Longitud: -99.213145
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383960</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.213145</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.213145,19.38396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Omega</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383534<br>Longitud: -99.214577<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383534<br>Longitud: -99.214577<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383534
+Longitud: -99.214577
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383534</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.214577</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.214577,19.383534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cuernavaca</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383380<br>Longitud: -99.216065<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383380<br>Longitud: -99.216065<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383380
+Longitud: -99.216065
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383380</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.216065</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.216065,19.38338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. México</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.383928<br>Longitud: -99.217524<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.383928<br>Longitud: -99.217524<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.383928
+Longitud: -99.217524
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.383928</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.217524</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.217524,19.383928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cda. Chicago</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.384671<br>Longitud: -99.219840<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.384671<br>Longitud: -99.219840<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.384671
+Longitud: -99.219840
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.384671</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.219840</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21984,19.384671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Presa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38389<br>Longitud: -99.22158<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38389<br>Longitud: -99.22158<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38389
+Longitud: -99.22158
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38389</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22158</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22158,19.38389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abelardo L. Rodríguez</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38265<br>Longitud: -99.22305<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38265<br>Longitud: -99.22305<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38265
+Longitud: -99.22305
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38265</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22305</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22305,19.38265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan Álvarez</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38108<br>Longitud: -99.22475<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38108<br>Longitud: -99.22475<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38108
+Longitud: -99.22475
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38108</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22475</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22475,19.38108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Capilla</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37995<br>Longitud: -99.22583<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37995<br>Longitud: -99.22583<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37995
+Longitud: -99.22583
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37995</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22583</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22583,19.37995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Niños Héroes</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37916<br>Longitud: -99.22615<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37916<br>Longitud: -99.22615<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37916
+Longitud: -99.22615
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37916</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22615</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22615,19.37916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benita Galeana</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37944<br>Longitud: -99.22794<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37944<br>Longitud: -99.22794<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37944
+Longitud: -99.22794
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37944</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22794</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22794,19.37944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galeana</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37910<br>Longitud: -99.22953<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37910<br>Longitud: -99.22953<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37910
+Longitud: -99.22953
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37910</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22953</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22953,19.3791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OXXO</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37828<br>Longitud: -99.23113<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37828<br>Longitud: -99.23113<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37828
+Longitud: -99.23113
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37828</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23113</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23113,19.37828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andador 1</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37747<br>Longitud: -99.23274<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37747<br>Longitud: -99.23274<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37747
+Longitud: -99.23274
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37747</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23274</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23274,19.37747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Primaria</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.375931<br>Longitud: -99.233802<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.375931<br>Longitud: -99.233802<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.375931
+Longitud: -99.233802
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.375931</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.233802</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.233802,19.375931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 1</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.374638<br>Longitud: -99.234707<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.374638<br>Longitud: -99.234707<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.374638
+Longitud: -99.234707
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.374638</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.234707</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.234707,19.374638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Encinal</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.372995<br>Longitud: -99.236738<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.372995<br>Longitud: -99.236738<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.372995
+Longitud: -99.236738
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.372995</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.236738</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.236738,19.372995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fortín</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.372257<br>Longitud: -99.238365<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.372257<br>Longitud: -99.238365<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.372257
+Longitud: -99.238365
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.372257</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.238365</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.238365,19.372257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secundaria</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.371093<br>Longitud: -99.240340<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.371093<br>Longitud: -99.240340<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.371093
+Longitud: -99.240340
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.371093</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.240340</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24034,19.371093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prepa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.370191<br>Longitud: -99.241729<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.370191<br>Longitud: -99.241729<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.370191
+Longitud: -99.241729
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.370191</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.241729</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.241729,19.370191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casitas</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.368849<br>Longitud: -99.24332631<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.368849<br>Longitud: -99.24332631<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.368849
+Longitud: -99.24332631
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.368849</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24332631</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.243326,19.368849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colipa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.367909<br>Longitud: -99.24466011<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.367909<br>Longitud: -99.24466011<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.367909
+Longitud: -99.24466011
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.367909</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24466011</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24466,19.367909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cuatotolapan</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.367340<br>Longitud: -99.24657905<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.367340<br>Longitud: -99.24657905<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.367340
+Longitud: -99.24657905
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.367340</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24657905</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.246579,19.36734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chavarrillo</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.366410<br>Longitud: -99.24771727<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.366410<br>Longitud: -99.24771727<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.366410
+Longitud: -99.24771727
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.366410</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24771727</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.247717,19.36641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arbolitos</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36492<br>Longitud: -99.24888<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36492<br>Longitud: -99.24888<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36492
+Longitud: -99.24888
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36492</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24888</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24888,19.36492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jalalpa</name>
+        <description><![CDATA[Descripción: Ruta: 112<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.364278<br>Longitud: -99.24926145<br>Empalme: -<br>Dirección: Ampliación Jalalpa<br>Ruta: 112.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.364278<br>Longitud: -99.24926145<br>Empalme: -<br>Dirección: Ampliación Jalalpa]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 112
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.364278
+Longitud: -99.24926145
+Empalme: -
+Dirección: Ampliación Jalalpa</value>
+          </Data>
+          <Data name="Ruta">
+            <value>112.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.364278</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24926145</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Ampliación Jalalpa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.249261,19.364278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

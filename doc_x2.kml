@@ -1,0 +1,3823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>RTP | Ruta 119-B | Presidentes - Metro Mixcoac</name>
+    <description>Costo: $2.00</description>
+    <Style id="icon-ci-1-labelson">
+      <IconStyle>
+        <scale>0.8</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="line-558B2F-4000-nodesc-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>4</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-558B2F-4000-nodesc-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-558B2F-4000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-558B2F-4000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-558B2F-4000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-7CB342-4000-nodesc-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>4</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-7CB342-4000-nodesc-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-7CB342-4000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7CB342-4000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7CB342-4000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ruta</name>
+      <Placemark>
+        <name>Presidentes - M. Mixcoac</name>
+        <styleUrl>#line-558B2F-4000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.218888,19.378962,0
+            -99.218925,19.37897,0
+            -99.218965,19.378974,0
+            -99.219039,19.378984,0
+            -99.219071,19.378985,0
+            -99.219146,19.378964,0
+            -99.219183,19.378945,0
+            -99.219311,19.378931,0
+            -99.219616,19.378883,0
+            -99.219946,19.378834,0
+            -99.220339,19.378779,0
+            -99.220437,19.378762,0
+            -99.220663,19.37872,0
+            -99.220911,19.378672,0
+            -99.221519,19.378576,0
+            -99.221838,19.37853,0
+            -99.221874,19.378519,0
+            -99.222273,19.378406,0
+            -99.222593,19.378301,0
+            -99.222897,19.378112,0
+            -99.223075,19.377915,0
+            -99.223304,19.37765,0
+            -99.223239,19.377388,0
+            -99.223113,19.37699,0
+            -99.2229,19.376339,0
+            -99.222736,19.375845,0
+            -99.222617,19.375472,0
+            -99.222619,19.375425,0
+            -99.222641,19.375392,0
+            -99.222867,19.375209,0
+            -99.22342,19.374745,0
+            -99.22399,19.374265,0
+            -99.224353,19.373958,0
+            -99.224389,19.373922,0
+            -99.224424,19.37388,0
+            -99.224535,19.37376,0
+            -99.22455,19.37374,0
+            -99.224641,19.37367,0
+            -99.224692,19.373591,0
+            -99.224832,19.373424,0
+            -99.224959,19.373252,0
+            -99.225088,19.37313,0
+            -99.225215,19.373004,0
+            -99.225507,19.372759,0
+            -99.225678,19.372552,0
+            -99.226056,19.372237,0
+            -99.226502,19.371878,0
+            -99.226813,19.371641,0
+            -99.227175,19.371415,0
+            -99.227434,19.371294,0
+            -99.227686,19.371278,0
+            -99.227863,19.371334,0
+            -99.228082,19.371461,0
+            -99.228306,19.371629,0
+            -99.229027,19.372,0
+            -99.229251,19.372086,0
+            -99.229529,19.372088,0
+            -99.229811,19.372048,0
+            -99.230294,19.371945,0
+            -99.23061,19.371844,0
+            -99.231214,19.371559,0
+            -99.232177,19.371085,0
+            -99.232353,19.371022,0
+            -99.232544,19.371007,0
+            -99.232782,19.370993,0
+            -99.233253,19.370988,0
+            -99.233339,19.370983,0
+            -99.233415,19.370951,0
+            -99.233431,19.370894,0
+            -99.233417,19.370436,0
+            -99.233421,19.37034,0
+            -99.233566,19.369801,0
+            -99.233828,19.368783,0
+            -99.234122,19.367594,0
+            -99.234225,19.367238,0
+            -99.23425,19.36714,0
+            -99.234248,19.367064,0
+            -99.234216,19.367014,0
+            -99.234122,19.366976,0
+            -99.233819,19.36689,0
+            -99.233055,19.366708,0
+            -99.232466,19.366619,0
+            -99.232172,19.366627,0
+            -99.23186,19.366691,0
+            -99.231846,19.366691,0
+            -99.231822,19.366691,0
+            -99.231811,19.366691,0
+            -99.231568,19.366745,0
+            -99.231385,19.366773,0
+            -99.231173,19.366782,0
+            -99.23096,19.366765,0
+            -99.230715,19.36682,0
+            -99.230508,19.366913,0
+            -99.230275,19.367029,0
+            -99.229603,19.367267,0
+            -99.228218,19.367748,0
+            -99.226141,19.368465,0
+            -99.224788,19.368953,0
+            -99.22462,19.369006,0
+            -99.224516,19.369038,0
+            -99.224397,19.369023,0
+            -99.224265,19.368996,0
+            -99.224071,19.368942,0
+            -99.223682,19.36882,0
+            -99.22344,19.368744,0
+            -99.223327,19.368678,0
+            -99.223089,19.368557,0
+            -99.222935,19.368504,0
+            -99.22265,19.368494,0
+            -99.222442,19.368531,0
+            -99.222222,19.368647,0
+            -99.222063,19.368756,0
+            -99.221579,19.368902,0
+            -99.220737,19.369114,0
+            -99.219613,19.369399,0
+            -99.218924,19.369614,0
+            -99.218907,19.369614,0
+            -99.21837,19.369818,0
+            -99.217865,19.369972,0
+            -99.217477,19.3701,0
+            -99.215897,19.370509,0
+            -99.214239,19.370936,0
+            -99.213631,19.371119,0
+            -99.213123,19.371382,0
+            -99.21182,19.371993,0
+            -99.210183,19.372765,0
+            -99.209977,19.372784,0
+            -99.208799,19.372807,0
+            -99.207883,19.372816,0
+            -99.206669,19.372853,0
+            -99.205955,19.372911,0
+            -99.203798,19.372959,0
+            -99.202933,19.372937,0
+            -99.202071,19.372886,0
+            -99.200515,19.372769,0
+            -99.199569,19.372687,0
+            -99.198957,19.372706,0
+            -99.198092,19.372803,0
+            -99.196909,19.37296,0
+            -99.19653,19.373005,0
+            -99.196453,19.372981,0
+            -99.196453,19.372868,0
+            -99.196471,19.372401,0
+            -99.196474,19.372303,0
+            -99.196432,19.372095,0
+            -99.196205,19.371334,0
+            -99.196154,19.371333,0
+            -99.196076,19.371382,0
+            -99.196065,19.371389,0
+            -99.195969,19.371482,0
+            -99.19583,19.371613,0
+            -99.19572,19.371724,0
+            -99.195596,19.371817,0
+            -99.195354,19.371889,0
+            -99.194376,19.37201,0
+            -99.193736,19.372138,0
+            -99.193586,19.372164,0
+            -99.193397,19.372132,0
+            -99.193207,19.372142,0
+            -99.193013,19.372161,0
+            -99.192873,19.372194,0
+            -99.192687,19.372253,0
+            -99.192426,19.372396,0
+            -99.191611,19.372644,0
+            -99.191431,19.372668,0
+            -99.191317,19.372656,0
+            -99.189813,19.372569,0
+            -99.188228,19.372502,0
+            -99.187663,19.372458,0
+            -99.187474,19.372479,0
+            -99.187325,19.372561,0
+            -99.187251,19.37265,0
+            -99.187212,19.372733,0
+            -99.187238,19.372947,0
+            -99.187246,19.373049,0
+            -99.187184,19.373743,0
+            -99.18715,19.374115,0
+            -99.187093,19.374633,0
+            -99.187019,19.374887,0
+            -99.186866,19.375377,0
+            -99.186799,19.375607,0
+            -99.186821,19.375681,0
+            -99.186862,19.37574,0
+            -99.186907,19.37577,0
+            -99.187476,19.375924,0
+            -99.187544,19.375954,0
+            -99.187695,19.376041,0
+            -99.187731,19.376062,0
+            -99.187841,19.376076,0
+            -99.188156,19.376112,0
+            -99.188826,19.376067,0
+            -99.188835,19.376015,0
+            -99.188845,19.375836,0
+            -99.188833,19.375763,0
+            -99.188764,19.375716,0
+            -99.188233,19.375728,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>M. Mixcoac - Presidentes</name>
+        <styleUrl>#line-7CB342-4000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.18823,19.375725,0
+            -99.187994,19.375728,0
+            -99.187919,19.375669,0
+            -99.187861,19.375585,0
+            -99.187805,19.375482,0
+            -99.187879,19.374655,0
+            -99.188036,19.373356,0
+            -99.188101,19.372845,0
+            -99.188131,19.372729,0
+            -99.188182,19.372663,0
+            -99.188275,19.372638,0
+            -99.188645,19.372653,0
+            -99.18967,19.372716,0
+            -99.190249,19.372735,0
+            -99.190559,19.372756,0
+            -99.191078,19.372786,0
+            -99.191477,19.37278,0
+            -99.191651,19.372741,0
+            -99.192196,19.372524,0
+            -99.192401,19.372474,0
+            -99.192671,19.372442,0
+            -99.192867,19.37244,0
+            -99.193302,19.372459,0
+            -99.193427,19.372476,0
+            -99.193486,19.372492,0
+            -99.193502,19.372521,0
+            -99.193506,19.37257,0
+            -99.193508,19.37261,0
+            -99.193448,19.373212,0
+            -99.193441,19.373276,0
+            -99.193451,19.373317,0
+            -99.193495,19.373344,0
+            -99.193548,19.373356,0
+            -99.194458,19.373446,0
+            -99.19575,19.373642,0
+            -99.196983,19.373835,0
+            -99.197317,19.373881,0
+            -99.19907,19.374158,0
+            -99.19961,19.374227,0
+            -99.200456,19.374363,0
+            -99.201256,19.37448,0
+            -99.201593,19.374537,0
+            -99.202346,19.374652,0
+            -99.202691,19.374701,0
+            -99.203304,19.374794,0
+            -99.203569,19.374843,0
+            -99.203684,19.374823,0
+            -99.20407,19.374588,0
+            -99.20469,19.374206,0
+            -99.205722,19.373539,0
+            -99.206466,19.373105,0
+            -99.206638,19.373015,0
+            -99.206738,19.37297,0
+            -99.206857,19.37292,0
+            -99.207139,19.372868,0
+            -99.207484,19.372897,0
+            -99.207847,19.373025,0
+            -99.209014,19.373489,0
+            -99.210629,19.374156,0
+            -99.210999,19.374296,0
+            -99.211321,19.374427,0
+            -99.211395,19.374434,0
+            -99.211499,19.374389,0
+            -99.21155,19.374263,0
+            -99.21159,19.374052,0
+            -99.211628,19.373951,0
+            -99.211703,19.373821,0
+            -99.211819,19.373625,0
+            -99.211861,19.373526,0
+            -99.211848,19.373423,0
+            -99.211846,19.373288,0
+            -99.211877,19.373245,0
+            -99.211962,19.373215,0
+            -99.212978,19.372953,0
+            -99.213917,19.372701,0
+            -99.214374,19.372582,0
+            -99.214932,19.372445,0
+            -99.216051,19.372144,0
+            -99.217391,19.371803,0
+            -99.218944,19.371398,0
+            -99.219898,19.371147,0
+            -99.221421,19.370755,0
+            -99.222339,19.370521,0
+            -99.223209,19.370291,0
+            -99.223353,19.370257,0
+            -99.223396,19.37024,0
+            -99.223509,19.370143,0
+            -99.223998,19.369752,0
+            -99.224032,19.369696,0
+            -99.224188,19.369428,0
+            -99.224341,19.369167,0
+            -99.224546,19.369111,0
+            -99.224652,19.369085,0
+            -99.226163,19.368554,0
+            -99.229175,19.367511,0
+            -99.230153,19.367183,0
+            -99.230614,19.367047,0
+            -99.231324,19.366895,0
+            -99.232133,19.366711,0
+            -99.232367,19.36668,0
+            -99.23263,19.366716,0
+            -99.232802,19.366751,0
+            -99.232906,19.366805,0
+            -99.232927,19.366878,0
+            -99.232882,19.367967,0
+            -99.232814,19.368773,0
+            -99.23274,19.369548,0
+            -99.232701,19.370007,0
+            -99.232672,19.370738,0
+            -99.232674,19.370835,0
+            -99.232658,19.370905,0
+            -99.232633,19.370922,0
+            -99.232541,19.370925,0
+            -99.232308,19.370935,0
+            -99.231344,19.371395,0
+            -99.230556,19.371761,0
+            -99.230383,19.371842,0
+            -99.229968,19.371958,0
+            -99.229863,19.371988,0
+            -99.229461,19.372003,0
+            -99.22917,19.371912,0
+            -99.22876,19.371728,0
+            -99.228503,19.371597,0
+            -99.228002,19.371262,0
+            -99.227774,19.371189,0
+            -99.227524,19.371169,0
+            -99.22736,19.371206,0
+            -99.227183,19.371312,0
+            -99.226774,19.371576,0
+            -99.226475,19.371795,0
+            -99.226228,19.371981,0
+            -99.225871,19.372275,0
+            -99.225686,19.37243,0
+            -99.225329,19.372769,0
+            -99.225153,19.37294,0
+            -99.224893,19.373193,0
+            -99.224773,19.373335,0
+            -99.224578,19.373566,0
+            -99.224548,19.373643,0
+            -99.22383,19.374261,0
+            -99.222597,19.375342,0
+            -99.222413,19.375552,0
+            -99.222078,19.375829,0
+            -99.221727,19.376149,0
+            -99.221577,19.376264,0
+            -99.221428,19.376354,0
+            -99.221209,19.376384,0
+            -99.220965,19.376421,0
+            -99.220559,19.376462,0
+            -99.220303,19.376548,0
+            -99.219447,19.376889,0
+            -99.219161,19.376982,0
+            -99.219072,19.377006,0
+            -99.219001,19.377017,0
+            -99.218502,19.377047,0
+            -99.218443,19.37706,0
+            -99.218417,19.377094,0
+            -99.218409,19.377143,0
+            -99.218408,19.378394,0
+            -99.218409,19.378713,0
+            -99.218399,19.378765,0
+            -99.218409,19.378806,0
+            -99.218428,19.37883,0
+            -99.218539,19.37885,0
+            -99.218679,19.378896,0
+            -99.218746,19.378919,0
+            -99.218785,19.378936,0
+            -99.21886,19.378956,0
+            -99.218889,19.378964,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Paradas dirección Metro Mixcoac</name>
+      <Placemark>
+        <name>Presidentes</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37900<br>Longitud: -99.21905<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37900<br>Longitud: -99.21905<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37900
+Longitud: -99.21905
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37900</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21905</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21905,19.379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Manuel Ávila Camacho</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37896<br>Longitud: -99.21941<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37896<br>Longitud: -99.21941<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37896
+Longitud: -99.21941
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37896</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21941</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21941,19.37896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Francisco I. Madero</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37880<br>Longitud: -99.22040<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37880<br>Longitud: -99.22040<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37880
+Longitud: -99.22040
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37880</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22040</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2204,19.3788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manuel Gómez Pedraza</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37863<br>Longitud: -99.22145<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37863<br>Longitud: -99.22145<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37863
+Longitud: -99.22145
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37863</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22145</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22145,19.37863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adolfo Ruiz Cortines</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37840<br>Longitud: -99.22246<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37840<br>Longitud: -99.22246<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37840
+Longitud: -99.22246
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37840</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22246</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22246,19.3784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Benito Juárez</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37787<br>Longitud: -99.22316<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37787<br>Longitud: -99.22316<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37787
+Longitud: -99.22316
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37787</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22316</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22316,19.37787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porfirio Díaz</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37647<br>Longitud: -99.22298<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37647<br>Longitud: -99.22298<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37647
+Longitud: -99.22298
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37647</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22298</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22298,19.37647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Gustavo Díaz Ordaz</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37547<br>Longitud: -99.22266<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37547<br>Longitud: -99.22266<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37547
+Longitud: -99.22266
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37547</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22266</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22266,19.37547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roosevelt</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37482<br>Longitud: -99.22334<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37482<br>Longitud: -99.22334<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37482
+Longitud: -99.22334
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37482</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22334</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22334,19.37482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T. Jefferson</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37410<br>Longitud: -99.22417<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37410<br>Longitud: -99.22417<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37410
+Longitud: -99.22417
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37410</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22417</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22417,19.3741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abraham Lincoln</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37303<br>Longitud: -99.22518<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37303<br>Longitud: -99.22518<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37303
+Longitud: -99.22518
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37303</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22518</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22518,19.37303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Higueras</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37198<br>Longitud: -99.22638<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37198<br>Longitud: -99.22638<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37198
+Longitud: -99.22638
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37198</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22638</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22638,19.37198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Loreto</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37135<br>Longitud: -99.22782<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37135<br>Longitud: -99.22782<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37135
+Longitud: -99.22782
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37135</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22782</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22782,19.37135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hacienda de La Flor</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37207<br>Longitud: -99.22961<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37207<br>Longitud: -99.22961<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37207
+Longitud: -99.22961
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37207</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22961</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22961,19.37207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Morelos</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37167<br>Longitud: -99.23100<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37167<br>Longitud: -99.23100<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37167
+Longitud: -99.23100
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37167</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23100</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.231,19.37167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Puerto Mazatlán</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37101<br>Longitud: -99.23255<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37101<br>Longitud: -99.23255<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37101
+Longitud: -99.23255
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37101</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23255</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23255,19.37101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Veracruz</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36994<br>Longitud: -99.23356<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36994<br>Longitud: -99.23356<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36994
+Longitud: -99.23356
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36994</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23356</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23356,19.36994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Guaymas</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36822<br>Longitud: -99.23399<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36822<br>Longitud: -99.23399<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36822
+Longitud: -99.23399
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36822</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23399</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23399,19.36822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Santa Lucia</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36723<br>Longitud: -99.23425<br>Empalme: 119<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36723<br>Longitud: -99.23425<br>Empalme: 119<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36723
+Longitud: -99.23425
+Empalme: 119
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36723</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23425</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23425,19.36723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Mazatlán</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36674<br>Longitud: -99.23320<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36674<br>Longitud: -99.23320<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36674
+Longitud: -99.23320
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36674</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23320</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2332,19.36674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trovador</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36737<br>Longitud: -99.22926<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36737<br>Longitud: -99.22926<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36737
+Longitud: -99.22926
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36737</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22926</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22926,19.36737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Rodríguez</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36837<br>Longitud: -99.22636<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36837<br>Longitud: -99.22636<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36837
+Longitud: -99.22636
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36837</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22636</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22636,19.36837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estudiantina</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36857<br>Longitud: -99.22318<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36857<br>Longitud: -99.22318<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36857
+Longitud: -99.22318
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36857</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22318</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22318,19.36857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cabalgata</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36883<br>Longitud: -99.22168<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36883<br>Longitud: -99.22168<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36883
+Longitud: -99.22168
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36883</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22168</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22168,19.36883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peregrinos</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36927<br>Longitud: -99.21999<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36927<br>Longitud: -99.21999<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36927
+Longitud: -99.21999
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36927</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21999</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21999,19.36927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jinete</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36964<br>Longitud: -99.21869<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36964<br>Longitud: -99.21869<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36964
+Longitud: -99.21869
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36964</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21869</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21869,19.36964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 26</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37015<br>Longitud: -99.21709<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37015<br>Longitud: -99.21709<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37015
+Longitud: -99.21709
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37015</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21709</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21709,19.37015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dolores del Río</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37073<br>Longitud: -99.21479<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37073<br>Longitud: -99.21479<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37073
+Longitud: -99.21479
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37073</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21479</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21479,19.37073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ernesto P. Uruchurtu</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37127<br>Longitud: -99.21315<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37127<br>Longitud: -99.21315<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37127
+Longitud: -99.21315
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37127</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21315</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21315,19.37127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 14</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37264<br>Longitud: -99.21024<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37264<br>Longitud: -99.21024<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37264
+Longitud: -99.21024
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37264</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21024</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21024,19.37264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 11</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37275<br>Longitud: -99.20837<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37275<br>Longitud: -99.20837<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37275
+Longitud: -99.20837
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37275</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20837</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20837,19.37275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 7</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37283<br>Longitud: -99.20622<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37283<br>Longitud: -99.20622<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37283
+Longitud: -99.20622
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37283</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20622</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20622,19.37283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37290<br>Longitud: -99.20363<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37290<br>Longitud: -99.20363<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37290
+Longitud: -99.20363
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37290</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20363</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20363,19.3729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosa Verde</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37279<br>Longitud: -99.20155<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37279<br>Longitud: -99.20155<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37279
+Longitud: -99.20155
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37279</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20155</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20155,19.37279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosa Blanca</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37261<br>Longitud: -99.19958<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37261<br>Longitud: -99.19958<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37261
+Longitud: -99.19958
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37261</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19958</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19958,19.37261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosa Esmeralda</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37281<br>Longitud: -99.19751<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37281<br>Longitud: -99.19751<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37281
+Longitud: -99.19751
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37281</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19751</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19751,19.37281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosa de Bengala</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37237<br>Longitud: -99.19656<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37237<br>Longitud: -99.19656<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37237
+Longitud: -99.19656
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37237</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19656</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19656,19.37237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sassoferrato</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37208<br>Longitud: -99.19374<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37208<br>Longitud: -99.19374<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37208
+Longitud: -99.19374
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37208</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19374</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19374,19.37208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37247<br>Longitud: -99.18934<br>Empalme: 120<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37247<br>Longitud: -99.18934<br>Empalme: 120<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37247
+Longitud: -99.18934
+Empalme: 120
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37247</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18934</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18934,19.37247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro Mixcoac</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37593<br>Longitud: -99.18723<br>Empalme: 1D/116/124/124A<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37593<br>Longitud: -99.18723<br>Empalme: 1D/116/124/124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37593
+Longitud: -99.18723
+Empalme: 1D/116/124/124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37593</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18723</value>
+          </Data>
+          <Data name="Empalme">
+            <value>1D/116/124/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18723,19.37593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mixcoac</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37577<br>Longitud: -99.18852<br>Empalme: 1D/116/124/124A<br>Dirección: Metro Mixcoac<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37577<br>Longitud: -99.18852<br>Empalme: 1D/116/124/124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37577
+Longitud: -99.18852
+Empalme: 1D/116/124/124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37577</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18852</value>
+          </Data>
+          <Data name="Empalme">
+            <value>1D/116/124/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18852,19.37577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Paradas dirección Presidentes</name>
+      <Placemark>
+        <name>Mixcoac</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37577<br>Longitud: -99.18852<br>Empalme: 1D/116/124/124A<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37577<br>Longitud: -99.18852<br>Empalme: 1D/116/124/124A<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37577
+Longitud: -99.18852
+Empalme: 1D/116/124/124A
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37577</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18852</value>
+          </Data>
+          <Data name="Empalme">
+            <value>1D/116/124/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18852,19.37577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Molinos</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37371<br>Longitud: -99.18804<br>Empalme: 13A/115A/116/124/124A<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37371<br>Longitud: -99.18804<br>Empalme: 13A/115A/116/124/124A<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37371
+Longitud: -99.18804
+Empalme: 13A/115A/116/124/124A
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37371</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18804</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/116/124/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18804,19.37371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37274<br>Longitud: -99.18946<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37274<br>Longitud: -99.18946<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37274
+Longitud: -99.18946
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37274</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18946</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18946,19.37274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sassoferrato</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37250<br>Longitud: -99.19323<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37250<br>Longitud: -99.19323<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37250
+Longitud: -99.19323
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37250</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19323</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19323,19.3725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carlos Dolci</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37355<br>Longitud: -99.19485<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37355<br>Longitud: -99.19485<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37355
+Longitud: -99.19485
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37355</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19485</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19485,19.37355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan Cousin</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37392<br>Longitud: -99.19724<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37392<br>Longitud: -99.19724<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37392
+Longitud: -99.19724
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37392</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19724</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19724,19.37392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosa Blanca</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37423<br>Longitud: -99.19925<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37423<br>Longitud: -99.19925<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37423
+Longitud: -99.19925
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37423</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19925</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19925,19.37423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37469<br>Longitud: -99.20225<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37469<br>Longitud: -99.20225<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37469
+Longitud: -99.20225
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37469</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20225</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20225,19.37469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 20</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37413<br>Longitud: -99.20491<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37413<br>Longitud: -99.20491<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37413
+Longitud: -99.20491
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37413</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20491</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20491,19.37413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. del Rosal</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37309<br>Longitud: -99.20656<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37309<br>Longitud: -99.20656<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37309
+Longitud: -99.20656
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37309</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20656</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20656,19.37309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 10</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37302<br>Longitud: -99.20770<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37302<br>Longitud: -99.20770<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37302
+Longitud: -99.20770
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37302</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20770</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2077,19.37302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 14</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37376<br>Longitud: -99.20951<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37376<br>Longitud: -99.20951<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37376
+Longitud: -99.20951
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37376</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20951</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20951,19.37376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liconsa</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37448<br>Longitud: -99.21131<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37448<br>Longitud: -99.21131<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37448
+Longitud: -99.21131
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37448</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21131</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21131,19.37448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ernesto P. Uruchurtu</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37279<br>Longitud: -99.21377<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37279<br>Longitud: -99.21377<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37279
+Longitud: -99.21377
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37279</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21377</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21377,19.37279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dolores del Río</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37243<br>Longitud: -99.21512<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37243<br>Longitud: -99.21512<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37243
+Longitud: -99.21512
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37243</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21512</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21512,19.37243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 25</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37198<br>Longitud: -99.21683<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37198<br>Longitud: -99.21683<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37198
+Longitud: -99.21683
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37198</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21683</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21683,19.37198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 28</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37154<br>Longitud: -99.21856<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37154<br>Longitud: -99.21856<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37154
+Longitud: -99.21856
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37154</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21856</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21856,19.37154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Primaria</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37125<br>Longitud: -99.21971<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37125<br>Longitud: -99.21971<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37125
+Longitud: -99.21971
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37125</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21971</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21971,19.37125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 32</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37095<br>Longitud: -99.22083<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37095<br>Longitud: -99.22083<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37095
+Longitud: -99.22083
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37095</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22083</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22083,19.37095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 36</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37035<br>Longitud: -99.22310<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37035<br>Longitud: -99.22310<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37035
+Longitud: -99.22310
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37035</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22310</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2231,19.37035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Santa Lucia</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36925<br>Longitud: -99.22433<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36925<br>Longitud: -99.22433<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36925
+Longitud: -99.22433
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36925</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22433</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22433,19.36925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Rodríguez</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36851<br>Longitud: -99.22640<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36851<br>Longitud: -99.22640<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36851
+Longitud: -99.22640
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36851</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22640</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2264,19.36851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trovador</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36750<br>Longitud: -99.22932<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36750<br>Longitud: -99.22932<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36750
+Longitud: -99.22932
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36750</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22932</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22932,19.3675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gasolinera</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36673<br>Longitud: -99.23227<br>Empalme: 120<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36673<br>Longitud: -99.23227<br>Empalme: 120<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36673
+Longitud: -99.23227
+Empalme: 120
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36673</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23227</value>
+          </Data>
+          <Data name="Empalme">
+            <value>120</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23227,19.36673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Guaymas</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36784<br>Longitud: -99.23281<br>Empalme: -<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36784<br>Longitud: -99.23281<br>Empalme: -<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36784
+Longitud: -99.23281
+Empalme: -
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36784</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23281</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23281,19.36784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Veracruz</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36990<br>Longitud: -99.23265<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36990<br>Longitud: -99.23265<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36990
+Longitud: -99.23265
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36990</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23265</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23265,19.3699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piloto</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37089<br>Longitud: -99.23262<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37089<br>Longitud: -99.23262<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37089
+Longitud: -99.23262
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37089</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23262</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23262,19.37089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Morelos</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37151<br>Longitud: -99.23105<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37151<br>Longitud: -99.23105<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37151
+Longitud: -99.23105
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37151</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23105</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23105,19.37151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hacienda de la Flor</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37195<br>Longitud: -99.22971<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37195<br>Longitud: -99.22971<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37195
+Longitud: -99.22971
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37195</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22971</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22971,19.37195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Loreto</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37127<br>Longitud: -99.22807<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37127<br>Longitud: -99.22807<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37127
+Longitud: -99.22807
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37127</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22807</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22807,19.37127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Higueras</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37179<br>Longitud: -99.22639<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37179<br>Longitud: -99.22639<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37179
+Longitud: -99.22639
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37179</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22639</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22639,19.37179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abraham Lincoln</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37254<br>Longitud: -99.22549<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37254<br>Longitud: -99.22549<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37254
+Longitud: -99.22549
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37254</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22549</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22549,19.37254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T. Jefferson</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37383<br>Longitud: -99.22429<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37383<br>Longitud: -99.22429<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37383
+Longitud: -99.22429
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37383</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22429</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22429,19.37383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roosevelt</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37452<br>Longitud: -99.22351<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37452<br>Longitud: -99.22351<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37452
+Longitud: -99.22351
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37452</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22351</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22351,19.37452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Benito Juárez</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37537<br>Longitud: -99.22254<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37537<br>Longitud: -99.22254<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37537
+Longitud: -99.22254
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37537</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22254</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22254,19.37537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comonfort</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37635<br>Longitud: -99.22108<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37635<br>Longitud: -99.22108<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37635
+Longitud: -99.22108
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37635</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22108</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22108,19.37635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Manuel Ávila Camacho</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37683<br>Longitud: -99.21941<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37683<br>Longitud: -99.21941<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37683
+Longitud: -99.21941
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37683</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21941</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21941,19.37683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diego Cao</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37788<br>Longitud: -99.21836<br>Empalme: 119<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37788<br>Longitud: -99.21836<br>Empalme: 119<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37788
+Longitud: -99.21836
+Empalme: 119
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37788</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21836</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21836,19.37788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Presidentes</name>
+        <description><![CDATA[Descripción: Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37900<br>Longitud: -99.21905<br>Empalme: -<br>Dirección: Presidentes<br>Ruta: 119-B<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37900<br>Longitud: -99.21905<br>Empalme: -<br>Dirección: Presidentes]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119-B
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37900
+Longitud: -99.21905
+Empalme: -
+Dirección: Presidentes</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119-B</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37900</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21905</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Presidentes</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21905,19.379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

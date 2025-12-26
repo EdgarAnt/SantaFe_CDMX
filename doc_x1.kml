@@ -1,0 +1,4100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>RTP | Ruta 119 | Piloto - Metro Tacubaya (Av. Jalisco)</name>
+    <description>Costo: $2.00</description>
+    <Style id="icon-ci-1-labelson">
+      <IconStyle>
+        <scale>0.8</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="line-558B2F-4000-nodesc-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>4</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-558B2F-4000-nodesc-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-558B2F-4000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-558B2F-4000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-558B2F-4000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-7CB342-4000-nodesc-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>4</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-7CB342-4000-nodesc-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-7CB342-4000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7CB342-4000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7CB342-4000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ruta</name>
+      <Placemark>
+        <name>Piloto - M. Tacubaya</name>
+        <styleUrl>#line-558B2F-4000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.232614,19.371004,0
+            -99.232717,19.370967,0
+            -99.233432,19.370968,0
+            -99.233433,19.370395,0
+            -99.233633,19.369482,0
+            -99.233875,19.368575,0
+            -99.234252,19.36705,0
+            -99.232945,19.366755,0
+            -99.232839,19.368757,0
+            -99.232745,19.369645,0
+            -99.232704,19.370172,0
+            -99.232703,19.370542,0
+            -99.232693,19.370867,0
+            -99.232657,19.370908,0
+            -99.232601,19.370923,0
+            -99.232307,19.370942,0
+            -99.232148,19.371011,0
+            -99.231593,19.371281,0
+            -99.230622,19.371736,0
+            -99.230372,19.371848,0
+            -99.230139,19.371923,0
+            -99.22986,19.371988,0
+            -99.229591,19.371999,0
+            -99.22944,19.372008,0
+            -99.229216,19.371944,0
+            -99.228502,19.371603,0
+            -99.227997,19.371262,0
+            -99.227769,19.37119,0
+            -99.227533,19.371174,0
+            -99.227367,19.371208,0
+            -99.22707,19.371393,0
+            -99.226792,19.371564,0
+            -99.226264,19.371952,0
+            -99.225678,19.372452,0
+            -99.2254,19.372703,0
+            -99.225263,19.372846,0
+            -99.225027,19.373057,0
+            -99.224824,19.373278,0
+            -99.224683,19.373456,0
+            -99.224576,19.373568,0
+            -99.224548,19.373637,0
+            -99.224332,19.373822,0
+            -99.223921,19.374182,0
+            -99.222646,19.375296,0
+            -99.222536,19.37541,0
+            -99.222381,19.375573,0
+            -99.221872,19.376012,0
+            -99.221633,19.376225,0
+            -99.22142,19.376347,0
+            -99.221023,19.376421,0
+            -99.220557,19.376468,0
+            -99.22032,19.376543,0
+            -99.219599,19.37683,0
+            -99.219162,19.376991,0
+            -99.219003,19.377024,0
+            -99.218505,19.377041,0
+            -99.218442,19.377059,0
+            -99.218409,19.377101,0
+            -99.218402,19.377179,0
+            -99.21842,19.378263,0
+            -99.218415,19.378321,0
+            -99.218356,19.378337,0
+            -99.217568,19.378336,0
+            -99.215861,19.37835,0
+            -99.215704,19.37844,0
+            -99.215597,19.378536,0
+            -99.215466,19.378681,0
+            -99.215348,19.37882,0
+            -99.215158,19.378877,0
+            -99.214923,19.378961,0
+            -99.214701,19.378984,0
+            -99.214469,19.378957,0
+            -99.214105,19.37891,0
+            -99.213649,19.378892,0
+            -99.213317,19.378899,0
+            -99.213095,19.378921,0
+            -99.212928,19.378957,0
+            -99.21276,19.379065,0
+            -99.212489,19.379273,0
+            -99.212116,19.379602,0
+            -99.211996,19.379726,0
+            -99.211764,19.379876,0
+            -99.21164,19.37995,0
+            -99.211443,19.380063,0
+            -99.211268,19.380129,0
+            -99.211037,19.380157,0
+            -99.210363,19.38024,0
+            -99.21002,19.380288,0
+            -99.209788,19.380348,0
+            -99.209544,19.380418,0
+            -99.209301,19.380556,0
+            -99.209137,19.380679,0
+            -99.208984,19.380903,0
+            -99.208893,19.381008,0
+            -99.208825,19.381044,0
+            -99.208733,19.381037,0
+            -99.208589,19.380947,0
+            -99.208487,19.380866,0
+            -99.208365,19.380826,0
+            -99.208207,19.380825,0
+            -99.208055,19.380854,0
+            -99.20797,19.380877,0
+            -99.207819,19.38089,0
+            -99.207745,19.380886,0
+            -99.207174,19.380972,0
+            -99.20699,19.381047,0
+            -99.20664,19.381111,0
+            -99.205514,19.381419,0
+            -99.205165,19.381554,0
+            -99.204311,19.381841,0
+            -99.204005,19.381923,0
+            -99.202881,19.382258,0
+            -99.202471,19.382377,0
+            -99.202207,19.382497,0
+            -99.201904,19.38271,0
+            -99.201704,19.382809,0
+            -99.201496,19.382818,0
+            -99.201177,19.382799,0
+            -99.201062,19.382784,0
+            -99.20077,19.382642,0
+            -99.200611,19.382511,0
+            -99.20048,19.382365,0
+            -99.200305,19.382028,0
+            -99.200272,19.381861,0
+            -99.200197,19.381597,0
+            -99.200104,19.381369,0
+            -99.200044,19.381235,0
+            -99.199922,19.380992,0
+            -99.199835,19.381018,0
+            -99.19977,19.381174,0
+            -99.199721,19.381386,0
+            -99.199613,19.381747,0
+            -99.199481,19.382209,0
+            -99.199401,19.382342,0
+            -99.199305,19.38241,0
+            -99.19914,19.382457,0
+            -99.197663,19.382934,0
+            -99.197184,19.383116,0
+            -99.197173,19.383121,0
+            -99.19677,19.383291,0
+            -99.195415,19.383718,0
+            -99.194763,19.383981,0
+            -99.194421,19.384181,0
+            -99.19407,19.384313,0
+            -99.19299,19.384681,0
+            -99.192702,19.384743,0
+            -99.192264,19.384816,0
+            -99.191014,19.384853,0
+            -99.190753,19.38482,0
+            -99.190473,19.384777,0
+            -99.190368,19.384709,0
+            -99.190301,19.384606,0
+            -99.190256,19.384508,0
+            -99.190253,19.384407,0
+            -99.190328,19.384333,0
+            -99.190375,19.384294,0
+            -99.190467,19.384248,0
+            -99.190644,19.384244,0
+            -99.190762,19.384283,0
+            -99.19083,19.384329,0
+            -99.190839,19.384383,0
+            -99.190857,19.384426,0
+            -99.190601,19.384958,0
+            -99.190179,19.386014,0
+            -99.18991,19.387084,0
+            -99.189519,19.388629,0
+            -99.189164,19.390004,0
+            -99.188834,19.391305,0
+            -99.188475,19.392576,0
+            -99.18826,19.393335,0
+            -99.188242,19.393623,0
+            -99.188207,19.393884,0
+            -99.188417,19.394649,0
+            -99.188535,19.394906,0
+            -99.188702,19.395311,0
+            -99.188891,19.39574,0
+            -99.189338,19.396754,0
+            -99.189613,19.397567,0
+            -99.189703,19.397751,0
+            -99.189719,19.39784,0
+            -99.189716,19.397917,0
+            -99.189659,19.398039,0
+            -99.189461,19.398412,0
+            -99.189095,19.39904,0
+            -99.188817,19.399524,0
+            -99.188713,19.39966,0
+            -99.188651,19.399767,0
+            -99.18863,19.399828,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>M. Tacubaya - Piloto</name>
+        <styleUrl>#line-7CB342-4000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.18863,19.399831,0
+            -99.188603,19.39989,0
+            -99.188593,19.399947,0
+            -99.188289,19.400466,0
+            -99.187899,19.401117,0
+            -99.187262,19.402189,0
+            -99.187104,19.4024,0
+            -99.187042,19.402476,0
+            -99.186963,19.40271,0
+            -99.186913,19.402953,0
+            -99.18682,19.403214,0
+            -99.18658,19.403574,0
+            -99.186363,19.403944,0
+            -99.186023,19.404489,0
+            -99.185603,19.405245,0
+            -99.185569,19.405284,0
+            -99.185503,19.405292,0
+            -99.184692,19.405217,0
+            -99.184614,19.405195,0
+            -99.184582,19.405157,0
+            -99.184558,19.405122,0
+            -99.184669,19.403822,0
+            -99.184761,19.402792,0
+            -99.18484,19.401693,0
+            -99.184926,19.400488,0
+            -99.184972,19.400001,0
+            -99.185038,19.399421,0
+            -99.185161,19.398045,0
+            -99.185279,19.396889,0
+            -99.185425,19.39555,0
+            -99.185542,19.394401,0
+            -99.185648,19.393456,0
+            -99.185839,19.391696,0
+            -99.185927,19.390889,0
+            -99.18606,19.389704,0
+            -99.186158,19.388826,0
+            -99.186285,19.387752,0
+            -99.186357,19.387009,0
+            -99.186452,19.385921,0
+            -99.186531,19.385589,0
+            -99.186562,19.385446,0
+            -99.186616,19.385293,0
+            -99.186686,19.385259,0
+            -99.186831,19.385236,0
+            -99.187529,19.385259,0
+            -99.188283,19.385266,0
+            -99.189487,19.385191,0
+            -99.191625,19.384986,0
+            -99.192235,19.384896,0
+            -99.193072,19.384726,0
+            -99.193697,19.384538,0
+            -99.194816,19.384149,0
+            -99.195333,19.383922,0
+            -99.196866,19.383417,0
+            -99.197414,19.383226,0
+            -99.198433,19.38291,0
+            -99.199718,19.382518,0
+            -99.200151,19.382384,0
+            -99.200279,19.382415,0
+            -99.200371,19.38249,0
+            -99.200457,19.382571,0
+            -99.200681,19.382764,0
+            -99.200838,19.382854,0
+            -99.201197,19.382963,0
+            -99.2015,19.382999,0
+            -99.201682,19.382987,0
+            -99.201827,19.38297,0
+            -99.202068,19.382802,0
+            -99.202366,19.382593,0
+            -99.202545,19.382503,0
+            -99.20273,19.382437,0
+            -99.203761,19.382104,0
+            -99.204433,19.381874,0
+            -99.204491,19.381901,0
+            -99.204534,19.382005,0
+            -99.204671,19.38244,0
+            -99.204839,19.382745,0
+            -99.204954,19.382864,0
+            -99.205336,19.383106,0
+            -99.205975,19.383425,0
+            -99.206251,19.383584,0
+            -99.206639,19.383723,0
+            -99.207101,19.383876,0
+            -99.207509,19.384005,0
+            -99.20791,19.38409,0
+            -99.20807,19.384069,0
+            -99.208271,19.384037,0
+            -99.210056,19.383631,0
+            -99.210844,19.383445,0
+            -99.210907,19.383391,0
+            -99.210897,19.383309,0
+            -99.210799,19.383231,0
+            -99.210666,19.383122,0
+            -99.210316,19.382869,0
+            -99.209846,19.382745,0
+            -99.209193,19.382321,0
+            -99.208904,19.382061,0
+            -99.208521,19.38151,0
+            -99.208308,19.381249,0
+            -99.20809,19.381018,0
+            -99.208072,19.38096,0
+            -99.208104,19.380943,0
+            -99.208167,19.380935,0
+            -99.208249,19.38094,0
+            -99.208313,19.380955,0
+            -99.208566,19.381097,0
+            -99.20868,19.381164,0
+            -99.208756,19.381179,0
+            -99.208825,19.381159,0
+            -99.208904,19.381118,0
+            -99.208948,19.381091,0
+            -99.209158,19.380803,0
+            -99.209297,19.380669,0
+            -99.2094,19.380605,0
+            -99.20966,19.380477,0
+            -99.209751,19.380441,0
+            -99.210378,19.380313,0
+            -99.210938,19.380249,0
+            -99.21117,19.380215,0
+            -99.211351,19.380167,0
+            -99.211504,19.380113,0
+            -99.211683,19.380016,0
+            -99.211835,19.379912,0
+            -99.212209,19.37963,0
+            -99.212364,19.379507,0
+            -99.212614,19.379282,0
+            -99.212854,19.379097,0
+            -99.212989,19.379046,0
+            -99.213169,19.379,0
+            -99.213353,19.37897,0
+            -99.214016,19.378982,0
+            -99.21434,19.379029,0
+            -99.214566,19.379049,0
+            -99.214733,19.379055,0
+            -99.214945,19.379013,0
+            -99.215076,19.378976,0
+            -99.21523,19.37892,0
+            -99.215344,19.378896,0
+            -99.215444,19.378879,0
+            -99.215634,19.37884,0
+            -99.215862,19.378832,0
+            -99.217735,19.378816,0
+            -99.218318,19.378819,0
+            -99.218483,19.378839,0
+            -99.218695,19.378886,0
+            -99.218964,19.378949,0
+            -99.219069,19.378965,0
+            -99.219467,19.378904,0
+            -99.220441,19.378764,0
+            -99.220907,19.37867,0
+            -99.221539,19.378577,0
+            -99.221852,19.378525,0
+            -99.222414,19.378365,0
+            -99.222593,19.378302,0
+            -99.222897,19.37811,0
+            -99.223017,19.377979,0
+            -99.223202,19.377771,0
+            -99.223304,19.377648,0
+            -99.223275,19.37754,0
+            -99.223239,19.377396,0
+            -99.223022,19.376704,0
+            -99.222676,19.375662,0
+            -99.222615,19.375467,0
+            -99.222619,19.375425,0
+            -99.222643,19.375395,0
+            -99.223205,19.374925,0
+            -99.224174,19.374113,0
+            -99.224377,19.373935,0
+            -99.224554,19.373742,0
+            -99.224638,19.373672,0
+            -99.2247,19.37358,0
+            -99.224882,19.373359,0
+            -99.224959,19.373255,0
+            -99.225217,19.373004,0
+            -99.225507,19.372761,0
+            -99.225677,19.372552,0
+            -99.225949,19.372326,0
+            -99.226506,19.371873,0
+            -99.226811,19.371645,0
+            -99.226817,19.371639,0
+            -99.227181,19.37141,0
+            -99.227438,19.371293,0
+            -99.227545,19.371283,0
+            -99.227686,19.371279,0
+            -99.227862,19.371333,0
+            -99.228084,19.371462,0
+            -99.228306,19.371629,0
+            -99.228506,19.371735,0
+            -99.229026,19.372,0
+            -99.229253,19.372087,0
+            -99.229522,19.37209,0
+            -99.229801,19.372054,0
+            -99.230313,19.371938,0
+            -99.2306,19.371846,0
+            -99.230743,19.371776,0
+            -99.230981,19.371672,0
+            -99.231642,19.371349,0
+            -99.231982,19.371178,0
+            -99.23226,19.37105,0
+            -99.232356,19.37102,0
+            -99.232568,19.371003,0
+            -99.232614,19.371004,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Paradas dirección Piloto</name>
+      <Placemark>
+        <name>Viaducto</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39988<br>Longitud: -99.18854<br>Empalme: 112/115/118<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39988<br>Longitud: -99.18854<br>Empalme: 112/115/118<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39988
+Longitud: -99.18854
+Empalme: 112/115/118
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39988</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18854</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112/115/118</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18854,19.39988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cartagena</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.40195<br>Longitud: -99.18735<br>Empalme: 112/115/118<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.40195<br>Longitud: -99.18735<br>Empalme: 112/115/118<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.40195
+Longitud: -99.18735
+Empalme: 112/115/118
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.40195</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18735</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112/115/118</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18735,19.40195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Revolución</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.40519<br>Longitud: -99.18469<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.40519<br>Longitud: -99.18469<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.40519
+Longitud: -99.18469
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.40519</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18469</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18469,19.40519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>José Martí</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.40358<br>Longitud: -99.18472<br>Empalme: 13A/112/115A<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.40358<br>Longitud: -99.18472<br>Empalme: 13A/112/115A<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.40358
+Longitud: -99.18472
+Empalme: 13A/112/115A
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.40358</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18472</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/112/115A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18472,19.40358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro Tacubaya</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.40163<br>Longitud: -99.18485<br>Empalme: 13A/112/115A/200<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.40163<br>Longitud: -99.18485<br>Empalme: 13A/112/115A/200<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.40163
+Longitud: -99.18485
+Empalme: 13A/112/115A/200
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.40163</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18485</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/112/115A/200</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18485,19.40163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heroes de 1810</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39784<br>Longitud: -99.18525<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39784<br>Longitud: -99.18525<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39784
+Longitud: -99.18525
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39784</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18525</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18525,19.39784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 de Abril</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39609<br>Longitud: -99.18542<br>Empalme: 13A/112/115A<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39609<br>Longitud: -99.18542<br>Empalme: 13A/112/115A<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39609
+Longitud: -99.18542
+Empalme: 13A/112/115A
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39609</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18542</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/112/115A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18542,19.39609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clínica 9 IMSS</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39273<br>Longitud: -99.18576<br>Empalme: 13A/112/115A<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39273<br>Longitud: -99.18576<br>Empalme: 13A/112/115A<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39273
+Longitud: -99.18576
+Empalme: 13A/112/115A
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39273</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18576</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/112/115A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18576,19.39273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro San Pedro de los Pinos</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39161<br>Longitud: -99.18593<br>Empalme: 13A/112/115A<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39161<br>Longitud: -99.18593<br>Empalme: 13A/112/115A<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39161
+Longitud: -99.18593
+Empalme: 13A/112/115A
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39161</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18593</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/112/115A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18593,19.39161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 10</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38938<br>Longitud: -99.18618<br>Empalme: 13A/112/115A<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38938<br>Longitud: -99.18618<br>Empalme: 13A/112/115A<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38938
+Longitud: -99.18618
+Empalme: 13A/112/115A
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38938</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18618</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/112/115A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18618,19.38938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 22</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38614<br>Longitud: -99.18659<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38614<br>Longitud: -99.18659<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38614
+Longitud: -99.18659
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38614</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18659</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18659,19.38614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Los Pinos</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38542<br>Longitud: -99.18858<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38542<br>Longitud: -99.18858<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38542
+Longitud: -99.18858
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38542</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18858</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18858,19.38542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Periférico</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38500<br>Longitud: -99.19179<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38500<br>Longitud: -99.19179<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38500
+Longitud: -99.19179
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38500</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19179</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19179,19.385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Libería Delti</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38403<br>Longitud: -99.19519<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38403<br>Longitud: -99.19519<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38403
+Longitud: -99.19519
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38403</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19519</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19519,19.38403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Demet</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38350<br>Longitud: -99.19683<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38350<br>Longitud: -99.19683<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38350
+Longitud: -99.19683
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38350</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19683</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19683,19.3835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión 1</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38277<br>Longitud: -99.19904<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38277<br>Longitud: -99.19904<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38277
+Longitud: -99.19904
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38277</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19904</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19904,19.38277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión 2</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38243<br>Longitud: -99.20010<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38243<br>Longitud: -99.20010<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38243
+Longitud: -99.20010
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38243</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20010</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2001,19.38243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1ra. Cda. de Minas</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38264<br>Longitud: -99.20235<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38264<br>Longitud: -99.20235<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38264
+Longitud: -99.20235
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38264</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20235</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20235,19.38264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3ra. Cda. de Minas</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38194<br>Longitud: -99.20432<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38194<br>Longitud: -99.20432<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38194
+Longitud: -99.20432
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38194</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20432</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20432,19.38194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Zorro</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38362<br>Longitud: -99.20619<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38362<br>Longitud: -99.20619<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38362
+Longitud: -99.20619
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38362</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20619</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20619,19.38362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Pepsi</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38361<br>Longitud: -99.21042<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38361<br>Longitud: -99.21042<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38361
+Longitud: -99.21042
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38361</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21042</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21042,19.38361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Venus</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38304<br>Longitud: -99.21064<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38304<br>Longitud: -99.21064<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38304
+Longitud: -99.21064
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38304</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21064</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21064,19.38304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saturno</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38220<br>Longitud: -99.20917<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38220<br>Longitud: -99.20917<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38220
+Longitud: -99.20917
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38220</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20917</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20917,19.3822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neptuno</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38149<br>Longitud: -99.20853<br>Empalme: 112<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38149<br>Longitud: -99.20853<br>Empalme: 112<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38149
+Longitud: -99.20853
+Empalme: 112
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38149</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20853</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20853,19.38149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Minas</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38101<br>Longitud: -99.20812<br>Empalme: -<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38101<br>Longitud: -99.20812<br>Empalme: -<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38101
+Longitud: -99.20812
+Empalme: -
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38101</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20812</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20812,19.38101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1er. Cda. Lomas de Capula</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38113<br>Longitud: -99.20891<br>Empalme: -<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38113<br>Longitud: -99.20891<br>Empalme: -<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38113
+Longitud: -99.20891
+Empalme: -
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38113</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20891</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20891,19.38113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golondrina Acerada</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38037<br>Longitud: -99.21001<br>Empalme: -<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38037<br>Longitud: -99.21001<br>Empalme: -<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38037
+Longitud: -99.21001
+Empalme: -
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38037</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21001</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21001,19.38037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golondrina Muda</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38008<br>Longitud: -99.21155<br>Empalme: -<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38008<br>Longitud: -99.21155<br>Empalme: -<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38008
+Longitud: -99.21155
+Empalme: -
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38008</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21155</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21155,19.38008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golondrina de los Acantilados</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37906<br>Longitud: -99.21289<br>Empalme: -<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37906<br>Longitud: -99.21289<br>Empalme: -<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37906
+Longitud: -99.21289
+Empalme: -
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37906</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21289</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21289,19.37906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>J. Cook</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37899<br>Longitud: -99.21407<br>Empalme: -<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37899<br>Longitud: -99.21407<br>Empalme: -<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37899
+Longitud: -99.21407
+Empalme: -
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37899</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21407</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21407,19.37899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>López Villalobos</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37887<br>Longitud: -99.21576<br>Empalme: -<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37887<br>Longitud: -99.21576<br>Empalme: -<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37887
+Longitud: -99.21576
+Empalme: -
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37887</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21576</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21576,19.37887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sebastian Cabot</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37887<br>Longitud: -99.21752<br>Empalme: -<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37887<br>Longitud: -99.21752<br>Empalme: -<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37887
+Longitud: -99.21752
+Empalme: -
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37887</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21752</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21752,19.37887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Manuel Ávila Camacho</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37896<br>Longitud: -99.21941<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37896<br>Longitud: -99.21941<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37896
+Longitud: -99.21941
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37896</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21941</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21941,19.37896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Francisco I. Madero</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37880<br>Longitud: -99.22040<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37880<br>Longitud: -99.22040<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37880
+Longitud: -99.22040
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37880</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22040</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2204,19.3788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manuel Gómez Pedraza</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37863<br>Longitud: -99.22145<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37863<br>Longitud: -99.22145<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37863
+Longitud: -99.22145
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37863</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22145</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22145,19.37863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adolfo Ruiz Cortines</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37840<br>Longitud: -99.22246<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37840<br>Longitud: -99.22246<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37840
+Longitud: -99.22246
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37840</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22246</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22246,19.3784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Benito Juárez</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37787<br>Longitud: -99.22316<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37787<br>Longitud: -99.22316<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37787
+Longitud: -99.22316
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37787</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22316</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22316,19.37787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porfirio Díaz</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37647<br>Longitud: -99.22298<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37647<br>Longitud: -99.22298<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37647
+Longitud: -99.22298
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37647</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22298</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22298,19.37647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Gustavo Díaz Ordaz</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37547<br>Longitud: -99.22266<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37547<br>Longitud: -99.22266<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37547
+Longitud: -99.22266
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37547</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22266</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22266,19.37547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roosevelt</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37482<br>Longitud: -99.22334<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37482<br>Longitud: -99.22334<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37482
+Longitud: -99.22334
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37482</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22334</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22334,19.37482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T. Jefferson</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37410<br>Longitud: -99.22417<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37410<br>Longitud: -99.22417<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37410
+Longitud: -99.22417
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37410</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22417</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22417,19.3741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abraham Lincoln</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37303<br>Longitud: -99.22518<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37303<br>Longitud: -99.22518<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37303
+Longitud: -99.22518
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37303</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22518</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22518,19.37303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Higueras</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37198<br>Longitud: -99.22638<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37198<br>Longitud: -99.22638<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37198
+Longitud: -99.22638
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37198</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22638</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22638,19.37198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Loreto</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37135<br>Longitud: -99.22782<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37135<br>Longitud: -99.22782<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37135
+Longitud: -99.22782
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37135</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22782</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22782,19.37135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hacienda de La Flor</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37207<br>Longitud: -99.22961<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37207<br>Longitud: -99.22961<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37207
+Longitud: -99.22961
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37207</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22961</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22961,19.37207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Morelos</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37167<br>Longitud: -99.23100<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37167<br>Longitud: -99.23100<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37167
+Longitud: -99.23100
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37167</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23100</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.231,19.37167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Puerto Mazatlán</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37101<br>Longitud: -99.23255<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37101<br>Longitud: -99.23255<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37101
+Longitud: -99.23255
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37101</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23255</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23255,19.37101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Veracruz</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36994<br>Longitud: -99.23356<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36994<br>Longitud: -99.23356<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36994
+Longitud: -99.23356
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36994</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23356</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23356,19.36994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Guaymas</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36822<br>Longitud: -99.23399<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36822<br>Longitud: -99.23399<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36822
+Longitud: -99.23399
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36822</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23399</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23399,19.36822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Santa Lucia</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36723<br>Longitud: -99.23425<br>Empalme: 119B<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36723<br>Longitud: -99.23425<br>Empalme: 119B<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36723
+Longitud: -99.23425
+Empalme: 119B
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36723</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23425</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23425,19.36723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piloto</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36864<br>Longitud: -99.23277<br>Empalme: -<br>Dirección: Piloto<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36864<br>Longitud: -99.23277<br>Empalme: -<br>Dirección: Piloto]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36864
+Longitud: -99.23277
+Empalme: -
+Dirección: Piloto</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36864</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23277</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Piloto</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23277,19.36864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Paradas dirección Metro Tacubaya (Av. Jalisco)</name>
+      <Placemark>
+        <name>Piloto</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36864<br>Longitud: -99.23277<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36864<br>Longitud: -99.23277<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36864
+Longitud: -99.23277
+Empalme: -
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36864</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23277</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23277,19.36864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Veracruz</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36990<br>Longitud: -99.23265<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36990<br>Longitud: -99.23265<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36990
+Longitud: -99.23265
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36990</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23265</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23265,19.3699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piloto</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37089<br>Longitud: -99.23262<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37089<br>Longitud: -99.23262<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37089
+Longitud: -99.23262
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37089</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23262</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23262,19.37089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Morelos</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37151<br>Longitud: -99.23105<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37151<br>Longitud: -99.23105<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37151
+Longitud: -99.23105
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37151</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23105</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23105,19.37151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hacienda de la Flor</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37195<br>Longitud: -99.22971<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37195<br>Longitud: -99.22971<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37195
+Longitud: -99.22971
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37195</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22971</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22971,19.37195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Loreto</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37127<br>Longitud: -99.22807<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37127<br>Longitud: -99.22807<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37127
+Longitud: -99.22807
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37127</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22807</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22807,19.37127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Higueras</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37179<br>Longitud: -99.22639<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37179<br>Longitud: -99.22639<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37179
+Longitud: -99.22639
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37179</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22639</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22639,19.37179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abraham Lincoln</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37254<br>Longitud: -99.22549<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37254<br>Longitud: -99.22549<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37254
+Longitud: -99.22549
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37254</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22549</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22549,19.37254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T. Jefferson</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37383<br>Longitud: -99.22429<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37383<br>Longitud: -99.22429<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37383
+Longitud: -99.22429
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37383</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22429</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22429,19.37383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roosevelt</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37452<br>Longitud: -99.22351<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37452<br>Longitud: -99.22351<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37452
+Longitud: -99.22351
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37452</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22351</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22351,19.37452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Benito Juárez</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37537<br>Longitud: -99.22254<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37537<br>Longitud: -99.22254<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37537
+Longitud: -99.22254
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37537</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22254</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22254,19.37537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comonfort</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37635<br>Longitud: -99.22108<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37635<br>Longitud: -99.22108<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37635
+Longitud: -99.22108
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37635</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22108</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22108,19.37635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Manuel Ávila Camacho</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37683<br>Longitud: -99.21941<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37683<br>Longitud: -99.21941<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37683
+Longitud: -99.21941
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37683</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21941</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21941,19.37683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diego Cao</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37788<br>Longitud: -99.21836<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37788<br>Longitud: -99.21836<br>Empalme: 119B<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37788
+Longitud: -99.21836
+Empalme: 119B
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37788</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21836</value>
+          </Data>
+          <Data name="Empalme">
+            <value>119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21836,19.37788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sebastián Cabot</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37830<br>Longitud: -99.21763<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37830<br>Longitud: -99.21763<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37830
+Longitud: -99.21763
+Empalme: -
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37830</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21763</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21763,19.3783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Lomas de Capula</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37879<br>Longitud: -99.21532<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37879<br>Longitud: -99.21532<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37879
+Longitud: -99.21532
+Empalme: -
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37879</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21532</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21532,19.37879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>J. Cook</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37893<br>Longitud: -99.21419<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37893<br>Longitud: -99.21419<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37893
+Longitud: -99.21419
+Empalme: -
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37893</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21419</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21419,19.37893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golondrina de los Acantilados</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37902<br>Longitud: -99.21281<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37902<br>Longitud: -99.21281<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37902
+Longitud: -99.21281
+Empalme: -
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37902</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21281</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21281,19.37902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golondrina Muda</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37970<br>Longitud: -99.21197<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37970<br>Longitud: -99.21197<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37970
+Longitud: -99.21197
+Empalme: -
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37970</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21197</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21197,19.3797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golondrina Acerada</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38024<br>Longitud: -99.21017<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38024<br>Longitud: -99.21017<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38024
+Longitud: -99.21017
+Empalme: -
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38024</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21017</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21017,19.38024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1er. Cda. Lomas de Capula</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38092<br>Longitud: -99.20892<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38092<br>Longitud: -99.20892<br>Empalme: -<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38092
+Longitud: -99.20892
+Empalme: -
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38092</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20892</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20892,19.38092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minas</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38088<br>Longitud: -99.20777<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38088<br>Longitud: -99.20777<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38088
+Longitud: -99.20777
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38088</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20777</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20777,19.38088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3ra. Cda. de Minas</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38175<br>Longitud: -99.20448<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38175<br>Longitud: -99.20448<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38175
+Longitud: -99.20448
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38175</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20448</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20448,19.38175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1ra. Cda. de Minas</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38235<br>Longitud: -99.20254<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38235<br>Longitud: -99.20254<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38235
+Longitud: -99.20254
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38235</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20254</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20254,19.38235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nicanor Arvide</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38241<br>Longitud: -99.20056<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38241<br>Longitud: -99.20056<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38241
+Longitud: -99.20056
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38241</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20056</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20056,19.38241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión 1</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38145<br>Longitud: -99.20013<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38145<br>Longitud: -99.20013<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38145
+Longitud: -99.20013
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38145</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20013</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20013,19.38145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión 2</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38239<br>Longitud: -99.19914<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38239<br>Longitud: -99.19914<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38239
+Longitud: -99.19914
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38239</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19914</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19914,19.38239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Demet</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38306<br>Longitud: -99.19721<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38306<br>Longitud: -99.19721<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38306
+Longitud: -99.19721
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38306</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19721</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19721,19.38306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Libería Delti</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38360<br>Longitud: -99.19552<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38360<br>Longitud: -99.19552<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38360
+Longitud: -99.19552
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38360</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19552</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19552,19.3836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Periférico</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38467<br>Longitud: -99.19055<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38467<br>Longitud: -99.19055<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38467
+Longitud: -99.19055
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38467</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19055</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19055,19.38467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 10</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.38930<br>Longitud: -99.18931<br>Empalme: 57/112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.38930<br>Longitud: -99.18931<br>Empalme: 57/112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.38930
+Longitud: -99.18931
+Empalme: 57/112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38930</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18931</value>
+          </Data>
+          <Data name="Empalme">
+            <value>57/112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18931,19.3893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 4</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39101<br>Longitud: -99.18885<br>Empalme: 57/112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39101<br>Longitud: -99.18885<br>Empalme: 57/112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39101
+Longitud: -99.18885
+Empalme: 57/112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39101</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18885</value>
+          </Data>
+          <Data name="Empalme">
+            <value>57/112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18885,19.39101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 de Abril</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39517<br>Longitud: -99.18866<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39517<br>Longitud: -99.18866<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39517
+Longitud: -99.18866
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39517</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18866</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18866,19.39517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Jalisco</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39767<br>Longitud: -99.18960<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39767<br>Longitud: -99.18960<br>Empalme: 112<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39767
+Longitud: -99.18960
+Empalme: 112
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39767</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18960</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1896,19.39767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viaducto</name>
+        <description><![CDATA[Descripción: Ruta: 119<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.39988<br>Longitud: -99.18854<br>Empalme: 112/115/118<br>Dirección: Metro Tacubaya (Av. Jalisco)<br>Ruta: 119.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.39988<br>Longitud: -99.18854<br>Empalme: 112/115/118<br>Dirección: Metro Tacubaya (Av. Jalisco)]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 119
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.39988
+Longitud: -99.18854
+Empalme: 112/115/118
+Dirección: Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+          <Data name="Ruta">
+            <value>119.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.39988</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18854</value>
+          </Data>
+          <Data name="Empalme">
+            <value>112/115/118</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Tacubaya (Av. Jalisco)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18854,19.39988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rutas de Camión - Centro Comercial Santa Fe</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+        .route-selector {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        }
+        .route-button {
+            display: block;
+            width: 100%;
+            margin: 5px 0;
+            padding: 10px 15px;
+            background-color: #8BC34A;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s;
+        }
+        .route-button:hover {
+            background-color: #7CB342;
+        }
+        .route-button.active {
+            background-color: #D32F2F;
+        }
+        .route-button.direccion-ida {
+            background-color: #558B2F;
+        }
+        .route-button.direccion-ida:hover {
+            background-color: #7CB342;
+        }
+        .route-button.direccion-ida.active {
+            background-color: #D32F2F;
+        }
+        h3 {
+            margin-top: 0;
+            color: #333;
+        }
+        .divider {
+            border-top: 1px solid #ddd;
+            margin: 10px 0;
+        }
+        .route-button.main-route {
+            background-color: #8BC34A;
+            font-weight: bold;
+            font-size: 16px;
+        }
+        .route-button.main-route:hover {
+            background-color: #7CB342;
+        }
+        .route-button.main-route.active {
+            background-color: #D32F2F;
+        }
+        .sub-routes {
+            display: none;
+            margin-left: 10px;
+        }
+        .sub-routes.show {
+            display: block;
+        }
+        .route-button.sub-route {
+            font-size: 13px;
+            padding: 8px 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="route-selector">
+        <h3>Rutas Santa Fe</h3>
+        <button class="route-button main-route" id="btn-todos" style="background-color: #FF5722; font-weight: bold;">TODOS</button>
+        <button class="route-button main-route" id="btn-9c">9C</button>
+        <div class="sub-routes" id="sub-rutas-9c">
+            <button class="route-button sub-route" id="ruta-9c-ida">Santa Fe → Puerta Grande</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-9c-regreso">Puerta Grande → Santa Fe</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-76">76</button>
+        <div class="sub-routes" id="sub-rutas-76">
+            <button class="route-button sub-route" id="ruta-76-ida">Santa Fe → M. Auditorio</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-76-regreso">M. Auditorio → Santa Fe</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-76a">76A</button>
+        <div class="sub-routes" id="sub-rutas-76a">
+            <button class="route-button sub-route" id="ruta-76a-ida">Santa Fe → M. Auditorio</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-76a-regreso">M. Auditorio → Santa Fe</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-110">110</button>
+        <div class="sub-routes" id="sub-rutas-110">
+            <button class="route-button sub-route" id="ruta-110-ida">Chimalpa → Metro Tacubaya</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-110-regreso">Metro Tacubaya → Chimalpa</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-110b">110-B</button>
+        <div class="sub-routes" id="sub-rutas-110b">
+            <button class="route-button sub-route" id="ruta-110b-ida">Acopilco → Tacubaya</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-110b-regreso">Tacubaya → Acopilco</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-110c">110-C</button>
+        <div class="sub-routes" id="sub-rutas-110c">
+            <button class="route-button sub-route" id="ruta-110c-ida">La Pila → Tacubaya</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-110c-regreso">Tacubaya → La Pila</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-112">112</button>
+        <div class="sub-routes" id="sub-rutas-112">
+            <button class="route-button sub-route" id="ruta-112-ida">Jalalpa → M. Tacubaya</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-112-regreso">M. Tacubaya → Jalalpa</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-113b">113-B</button>
+        <div class="sub-routes" id="sub-rutas-113b">
+            <button class="route-button sub-route" id="ruta-113b-ida">Col. Navidad → M. Tacubaya</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-113b-regreso">M. Tacubaya → Col. Navidad</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-115">115</button>
+        <div class="sub-routes" id="sub-rutas-115">
+            <button class="route-button sub-route" id="ruta-115-ida">Jesús del Monte → M. Tacubaya</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-115-regreso">M. Tacubaya → Jesús del Monte</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-115a">115-A</button>
+        <div class="sub-routes" id="sub-rutas-115a">
+            <button class="route-button sub-route" id="ruta-115a-ida">Las Águilas → M. Chapultepec</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-115a-regreso">M. Chapultepec → Las Águilas</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-116">116</button>
+        <div class="sub-routes" id="sub-rutas-116">
+            <button class="route-button sub-route" id="ruta-116-ida">Santa Rosa Xochiac → M. Mixcoac</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-116-regreso">M. Mixcoac → Santa Rosa Xochiac</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-118">118</button>
+        <div class="sub-routes" id="sub-rutas-118">
+            <button class="route-button sub-route" id="ruta-118-ida">Santa Rosa Xochiac → M. Tacubaya</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-118-regreso">M. Tacubaya → Santa Rosa Xochiac</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-119">119</button>
+        <div class="sub-routes" id="sub-rutas-119">
+            <button class="route-button sub-route" id="ruta-119-ida">Piloto → M. Tacubaya</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-119-regreso">M. Tacubaya → Piloto</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-119b">119-B</button>
+        <div class="sub-routes" id="sub-rutas-119b">
+            <button class="route-button sub-route" id="ruta-119b-ida">Presidentes → M. Mixcoac</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-119b-regreso">M. Mixcoac → Presidentes</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-120">120</button>
+        <div class="sub-routes" id="sub-rutas-120">
+            <button class="route-button sub-route" id="ruta-120-ida">San Mateo Tlaltenango → M. Zapata</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-120-regreso">M. Zapata → San Mateo Tlaltenango</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-121a">121-A</button>
+        <div class="sub-routes" id="sub-rutas-121a">
+            <button class="route-button sub-route" id="ruta-121a-ida">San Bartolo Ameyalco → M. Zapata</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-121a-regreso">M. Zapata → San Bartolo Ameyalco</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-124">124</button>
+        <div class="sub-routes" id="sub-rutas-124">
+            <button class="route-button sub-route" id="ruta-124-ida">Puerta Grande → M. Mixcoac</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-124-regreso">M. Mixcoac → Puerta Grande</button>
+        </div>
+
+        <button class="route-button main-route" id="btn-124a">124-A</button>
+        <div class="sub-routes" id="sub-rutas-124a">
+            <button class="route-button sub-route" id="ruta-124a-ida">Ampliación Tepeaca → M. Mixcoac</button>
+            <button class="route-button sub-route direccion-ida" id="ruta-124a-regreso">M. Mixcoac → Ampliación Tepeaca</button>
+        </div>
+    </div>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="rutas_data.js"></script>
+    <script>
+        // Inicializar el mapa centrado en Santa Fe, CDMX
+        const map = L.map('map').setView([19.3599, -99.2599], 13);
+
+        // Agregar capa de mapa estilo Google Maps
+        L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+            maxZoom: 20,
+            subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+            attribution: '&copy; Google Maps'
+        }).addTo(map);
+
+        let rutaActual = null;
+        let todasLasRutas = [];
+
+        // Colores para cada ruta
+        const coloresPorRuta = {
+            '9c': '#E91E63',
+            '76': '#9C27B0',
+            '76a': '#673AB7',
+            '110': '#3F51B5',
+            '110b': '#2196F3',
+            '110c': '#03A9F4',
+            '112': '#00BCD4',
+            '113b': '#009688',
+            '115': '#4CAF50',
+            '115a': '#8BC34A',
+            '116': '#CDDC39',
+            '118': '#FFEB3B',
+            '119': '#FFC107',
+            '119b': '#FF9800',
+            '120': '#FF5722',
+            '121a': '#795548',
+            '124': '#607D8B',
+            '124a': '#F44336'
+        };
+
+        // Función para mostrar todas las rutas
+        function mostrarTodasLasRutas() {
+            // Limpiar rutas anteriores
+            limpiarMapa();
+
+            // Mostrar ambas direcciones de cada ruta
+            Object.keys(rutasData).forEach(numeroRuta => {
+                const color = coloresPorRuta[numeroRuta] || '#558B2F';
+
+                // Mostrar ida y vuelta de cada ruta
+                [0, 1].forEach(indice => {
+                    const ruta = rutasData[numeroRuta][indice];
+
+                    const polyline = L.polyline(ruta.coordenadas, {
+                        color: color,
+                        weight: 4,
+                        opacity: 0.7,
+                        smoothFactor: 1
+                    }).addTo(map);
+
+                    polyline.bindPopup(`<b>${numeroRuta.toUpperCase()}</b><br>${ruta.nombre}`);
+
+                    todasLasRutas.push(polyline);
+                });
+            });
+
+            // Ajustar zoom para mostrar todas las rutas
+            const group = L.featureGroup(todasLasRutas);
+            map.fitBounds(group.getBounds(), { padding: [50, 50] });
+        }
+
+        // Función para limpiar el mapa
+        function limpiarMapa() {
+            if (rutaActual) {
+                map.removeLayer(rutaActual.polyline);
+                if (rutaActual.markerInicio) map.removeLayer(rutaActual.markerInicio);
+                if (rutaActual.markerFin) map.removeLayer(rutaActual.markerFin);
+                rutaActual = null;
+            }
+
+            todasLasRutas.forEach(polyline => map.removeLayer(polyline));
+            todasLasRutas = [];
+        }
+
+        // Función para mostrar una ruta
+        function mostrarRuta(numeroRuta, indice) {
+            // Limpiar TODAS las rutas (incluyendo las del modo TODOS)
+            limpiarMapa();
+
+            const ruta = rutasData[numeroRuta][indice];
+            const color = indice === 0 ? '#558B2F' : '#7CB342';
+
+            // Crear la polilínea con todas las coordenadas exactas (con curvas)
+            const polyline = L.polyline(ruta.coordenadas, {
+                color: color,
+                weight: 5,
+                opacity: 0.8,
+                smoothFactor: 1
+            }).addTo(map);
+
+            // Marcador de inicio
+            const markerInicio = L.circleMarker(ruta.coordenadas[0], {
+                radius: 8,
+                fillColor: '#D32F2F',
+                color: 'white',
+                weight: 2,
+                opacity: 1,
+                fillOpacity: 0.9
+            }).addTo(map);
+
+            markerInicio.bindPopup(`<b>Inicio:</b> ${ruta.nombre.split(' - ')[0]}`);
+
+            // Marcador de fin
+            const markerFin = L.circleMarker(ruta.coordenadas[ruta.coordenadas.length - 1], {
+                radius: 8,
+                fillColor: '#1976D2',
+                color: 'white',
+                weight: 2,
+                opacity: 1,
+                fillOpacity: 0.9
+            }).addTo(map);
+
+            markerFin.bindPopup(`<b>Destino:</b> ${ruta.nombre.split(' - ')[1]}`);
+
+            // Ajustar el zoom para mostrar toda la ruta
+            map.fitBounds(polyline.getBounds(), { padding: [50, 50] });
+
+            rutaActual = { polyline, markerInicio, markerFin };
+        }
+
+        // Event listener para el botón principal 9C
+        document.getElementById('btn-9c').addEventListener('click', function() {
+            const subRutas = document.getElementById('sub-rutas-9c');
+            subRutas.classList.toggle('show');
+            this.classList.toggle('active');
+        });
+
+        // Event listener para el botón principal 76
+        document.getElementById('btn-76').addEventListener('click', function() {
+            const subRutas = document.getElementById('sub-rutas-76');
+            subRutas.classList.toggle('show');
+            this.classList.toggle('active');
+        });
+
+        // Event listener para el botón principal 76A
+        document.getElementById('btn-76a').addEventListener('click', function() {
+            const subRutas = document.getElementById('sub-rutas-76a');
+            subRutas.classList.toggle('show');
+            this.classList.toggle('active');
+        });
+
+        // Event listener para el botón principal 110
+        document.getElementById('btn-110').addEventListener('click', function() {
+            const subRutas = document.getElementById('sub-rutas-110');
+            subRutas.classList.toggle('show');
+            this.classList.toggle('active');
+        });
+
+        // Event listener para el botón principal 110-B
+        document.getElementById('btn-110b').addEventListener('click', function() {
+            const subRutas = document.getElementById('sub-rutas-110b');
+            subRutas.classList.toggle('show');
+            this.classList.toggle('active');
+        });
+
+        // Event listener para el botón principal 110-C
+        document.getElementById('btn-110c').addEventListener('click', function() {
+            const subRutas = document.getElementById('sub-rutas-110c');
+            subRutas.classList.toggle('show');
+            this.classList.toggle('active');
+        });
+
+        // Event listener para el botón principal 112
+        document.getElementById('btn-112').addEventListener('click', function() {
+            const subRutas = document.getElementById('sub-rutas-112');
+            subRutas.classList.toggle('show');
+            this.classList.toggle('active');
+        });
+
+        // Event listeners para las sub-rutas de 9C
+        document.getElementById('ruta-9c-ida').addEventListener('click', function() {
+            mostrarRuta('9c', 0);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        document.getElementById('ruta-9c-regreso').addEventListener('click', function() {
+            mostrarRuta('9c', 1);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        // Event listeners para las sub-rutas de 76
+        document.getElementById('ruta-76-ida').addEventListener('click', function() {
+            mostrarRuta('76', 0);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        document.getElementById('ruta-76-regreso').addEventListener('click', function() {
+            mostrarRuta('76', 1);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        // Event listeners para las sub-rutas de 76A
+        document.getElementById('ruta-76a-ida').addEventListener('click', function() {
+            mostrarRuta('76a', 0);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        document.getElementById('ruta-76a-regreso').addEventListener('click', function() {
+            mostrarRuta('76a', 1);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        // Event listeners para las sub-rutas de 110
+        document.getElementById('ruta-110-ida').addEventListener('click', function() {
+            mostrarRuta('110', 0);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        document.getElementById('ruta-110-regreso').addEventListener('click', function() {
+            mostrarRuta('110', 1);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        // Event listeners para las sub-rutas de 110-B
+        document.getElementById('ruta-110b-ida').addEventListener('click', function() {
+            mostrarRuta('110b', 0);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        document.getElementById('ruta-110b-regreso').addEventListener('click', function() {
+            mostrarRuta('110b', 1);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        // Event listeners para las sub-rutas de 110-C
+        document.getElementById('ruta-110c-ida').addEventListener('click', function() {
+            mostrarRuta('110c', 0);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        document.getElementById('ruta-110c-regreso').addEventListener('click', function() {
+            mostrarRuta('110c', 1);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        // Event listeners para las sub-rutas de 112
+        document.getElementById('ruta-112-ida').addEventListener('click', function() {
+            mostrarRuta('112', 0);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        document.getElementById('ruta-112-regreso').addEventListener('click', function() {
+            mostrarRuta('112', 1);
+            document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+
+        // Event listeners para botones principales de rutas nuevas
+        ['113b', '115', '115a', '116', '118', '119', '119b', '120', '121a', '124', '124a'].forEach(ruta => {
+            document.getElementById(`btn-${ruta}`).addEventListener('click', function() {
+                const subRutas = document.getElementById(`sub-rutas-${ruta}`);
+                subRutas.classList.toggle('show');
+                this.classList.toggle('active');
+            });
+
+            document.getElementById(`ruta-${ruta}-ida`).addEventListener('click', function() {
+                mostrarRuta(ruta, 0);
+                document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+                this.classList.add('active');
+            });
+
+            document.getElementById(`ruta-${ruta}-regreso`).addEventListener('click', function() {
+                mostrarRuta(ruta, 1);
+                document.querySelectorAll('.sub-route').forEach(btn => btn.classList.remove('active'));
+                this.classList.add('active');
+            });
+        });
+
+        // Event listener para el botón TODOS
+        document.getElementById('btn-todos').addEventListener('click', function() {
+            // Si el botón ya está activo, deseleccionar y limpiar
+            if (this.classList.contains('active')) {
+                limpiarMapa();
+                this.classList.remove('active');
+            } else {
+                // Si no está activo, mostrar todas las rutas
+                mostrarTodasLasRutas();
+                // Cerrar todos los submenús expandidos
+                document.querySelectorAll('.sub-routes.show').forEach(sub => sub.classList.remove('show'));
+                // Remover la clase active de todos los botones y agregar solo al botón TODOS
+                document.querySelectorAll('.route-button').forEach(btn => btn.classList.remove('active'));
+                this.classList.add('active');
+            }
+        });
+    </script>
+</body>
+</html>

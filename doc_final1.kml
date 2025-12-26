@@ -1,0 +1,3554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>RTP | Ruta 124 | Puerta Grande - Metro Mixcoac</name>
+    <description>Costo: $2.00</description>
+    <Style id="icon-ci-1-labelson">
+      <IconStyle>
+        <scale>0.8</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="line-558B2F-4000-nodesc-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>4</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-558B2F-4000-nodesc-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-558B2F-4000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-558B2F-4000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-558B2F-4000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-7CB342-4000-nodesc-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>4</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-7CB342-4000-nodesc-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-7CB342-4000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7CB342-4000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7CB342-4000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ruta</name>
+      <Placemark>
+        <name>Puerta Grande - M. Mixcoac</name>
+        <styleUrl>#line-558B2F-4000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.244376,19.354185,0
+            -99.244356,19.354097,0
+            -99.244299,19.353932,0
+            -99.244223,19.353664,0
+            -99.244207,19.353604,0
+            -99.244191,19.353553,0
+            -99.244139,19.353519,0
+            -99.244059,19.353507,0
+            -99.243898,19.353558,0
+            -99.243635,19.353668,0
+            -99.243461,19.353753,0
+            -99.243285,19.35388,0
+            -99.243114,19.35401,0
+            -99.242988,19.354117,0
+            -99.242891,19.354195,0
+            -99.242821,19.354224,0
+            -99.242614,19.354306,0
+            -99.242274,19.354417,0
+            -99.241947,19.354541,0
+            -99.241784,19.354591,0
+            -99.241632,19.354678,0
+            -99.241408,19.35483,0
+            -99.241309,19.354952,0
+            -99.241181,19.354991,0
+            -99.24102,19.355052,0
+            -99.240855,19.35511,0
+            -99.240747,19.355178,0
+            -99.240587,19.355319,0
+            -99.240507,19.355508,0
+            -99.240468,19.355653,0
+            -99.240427,19.355768,0
+            -99.240363,19.355901,0
+            -99.24032,19.355969,0
+            -99.240224,19.356043,0
+            -99.24014,19.356079,0
+            -99.240055,19.356094,0
+            -99.239954,19.356096,0
+            -99.239702,19.35605,0
+            -99.238836,19.35592,0
+            -99.238447,19.355844,0
+            -99.238277,19.355814,0
+            -99.238071,19.355787,0
+            -99.237902,19.35579,0
+            -99.237812,19.355818,0
+            -99.237662,19.355895,0
+            -99.237394,19.356037,0
+            -99.23689,19.356337,0
+            -99.236347,19.356666,0
+            -99.2355,19.35721,0
+            -99.235151,19.357403,0
+            -99.234945,19.357519,0
+            -99.234535,19.357771,0
+            -99.234259,19.357907,0
+            -99.233966,19.358092,0
+            -99.233721,19.358215,0
+            -99.233495,19.358336,0
+            -99.233155,19.358513,0
+            -99.232915,19.358619,0
+            -99.232389,19.358871,0
+            -99.231798,19.35914,0
+            -99.231477,19.359307,0
+            -99.231161,19.359459,0
+            -99.230929,19.359602,0
+            -99.230755,19.359712,0
+            -99.23062,19.359867,0
+            -99.230533,19.359942,0
+            -99.230383,19.360016,0
+            -99.230205,19.360048,0
+            -99.230054,19.36005,0
+            -99.229937,19.360013,0
+            -99.229766,19.359955,0
+            -99.229521,19.359826,0
+            -99.22931,19.359751,0
+            -99.229146,19.359771,0
+            -99.228888,19.359836,0
+            -99.228601,19.360021,0
+            -99.227912,19.36048,0
+            -99.227507,19.360785,0
+            -99.227174,19.360953,0
+            -99.226694,19.361194,0
+            -99.226215,19.361404,0
+            -99.225805,19.361569,0
+            -99.225661,19.36165,0
+            -99.225267,19.361843,0
+            -99.224985,19.361929,0
+            -99.22486,19.361979,0
+            -99.224654,19.361986,0
+            -99.224439,19.361941,0
+            -99.223665,19.361805,0
+            -99.22318,19.361713,0
+            -99.222819,19.361594,0
+            -99.222605,19.361468,0
+            -99.222472,19.361342,0
+            -99.222384,19.361198,0
+            -99.222334,19.36106,0
+            -99.222266,19.360781,0
+            -99.222245,19.360625,0
+            -99.22229,19.360493,0
+            -99.222367,19.360332,0
+            -99.222515,19.360209,0
+            -99.222781,19.360102,0
+            -99.22303,19.360011,0
+            -99.22339,19.35988,0
+            -99.223682,19.359781,0
+            -99.223798,19.359725,0
+            -99.223913,19.359579,0
+            -99.223954,19.359428,0
+            -99.223941,19.359242,0
+            -99.223869,19.359097,0
+            -99.223721,19.358948,0
+            -99.223482,19.358871,0
+            -99.223248,19.35882,0
+            -99.222685,19.358799,0
+            -99.222261,19.358789,0
+            -99.221898,19.358782,0
+            -99.221336,19.358663,0
+            -99.220803,19.358617,0
+            -99.220627,19.358624,0
+            -99.220214,19.358676,0
+            -99.218155,19.35906,0
+            -99.217873,19.359149,0
+            -99.21769,19.35923,0
+            -99.21755,19.359328,0
+            -99.216663,19.360119,0
+            -99.216568,19.360201,0
+            -99.216403,19.360318,0
+            -99.216217,19.360413,0
+            -99.216051,19.360573,0
+            -99.215925,19.360729,0
+            -99.215823,19.36082,0
+            -99.215677,19.360906,0
+            -99.214642,19.361286,0
+            -99.213881,19.361601,0
+            -99.213453,19.361773,0
+            -99.213172,19.36185,0
+            -99.212814,19.361985,0
+            -99.21257,19.362146,0
+            -99.212162,19.362446,0
+            -99.211803,19.362711,0
+            -99.211698,19.362825,0
+            -99.211523,19.363132,0
+            -99.211384,19.363427,0
+            -99.211119,19.364328,0
+            -99.211075,19.364437,0
+            -99.211035,19.364547,0
+            -99.210883,19.36471,0
+            -99.210767,19.36476,0
+            -99.210524,19.364794,0
+            -99.210252,19.364841,0
+            -99.209861,19.364922,0
+            -99.208861,19.365234,0
+            -99.208558,19.365319,0
+            -99.208307,19.365362,0
+            -99.207762,19.365353,0
+            -99.207481,19.365347,0
+            -99.207235,19.365399,0
+            -99.205573,19.365354,0
+            -99.202951,19.365262,0
+            -99.201039,19.36522,0
+            -99.200378,19.365191,0
+            -99.199953,19.365174,0
+            -99.199632,19.365158,0
+            -99.199452,19.365137,0
+            -99.198897,19.365081,0
+            -99.196683,19.364871,0
+            -99.195651,19.364786,0
+            -99.195632,19.364743,0
+            -99.195636,19.364671,0
+            -99.195636,19.364582,0
+            -99.195659,19.36446,0
+            -99.195677,19.364278,0
+            -99.195699,19.364129,0
+            -99.195748,19.363942,0
+            -99.195782,19.36378,0
+            -99.195805,19.363665,0
+            -99.195828,19.363543,0
+            -99.195841,19.363443,0
+            -99.195822,19.3634,0
+            -99.19574,19.363345,0
+            -99.195648,19.363323,0
+            -99.195581,19.363349,0
+            -99.195453,19.363396,0
+            -99.195314,19.363433,0
+            -99.195097,19.363489,0
+            -99.194659,19.363579,0
+            -99.194235,19.363659,0
+            -99.19396,19.363715,0
+            -99.193845,19.363737,0
+            -99.193712,19.363748,0
+            -99.193441,19.363775,0
+            -99.193216,19.363758,0
+            -99.193041,19.363744,0
+            -99.192948,19.363737,0
+            -99.192652,19.363676,0
+            -99.191634,19.363464,0
+            -99.190892,19.363298,0
+            -99.190325,19.363149,0
+            -99.190033,19.363075,0
+            -99.189874,19.363031,0
+            -99.189835,19.363024,0
+            -99.189481,19.362975,0
+            -99.189267,19.362972,0
+            -99.189201,19.362972,0
+            -99.189052,19.363006,0
+            -99.189012,19.363064,0
+            -99.188999,19.363108,0
+            -99.188815,19.364553,0
+            -99.188678,19.365608,0
+            -99.188578,19.366499,0
+            -99.188425,19.367773,0
+            -99.188321,19.368819,0
+            -99.188182,19.37018,0
+            -99.188158,19.370363,0
+            -99.188143,19.370512,0
+            -99.188125,19.370705,0
+            -99.18809,19.371042,0
+            -99.188063,19.371274,0
+            -99.18801,19.371731,0
+            -99.188002,19.371802,0
+            -99.187884,19.372016,0
+            -99.187639,19.372154,0
+            -99.187486,19.37229,0
+            -99.187276,19.372484,0
+            -99.187226,19.372546,0
+            -99.187216,19.372598,0
+            -99.187204,19.372767,0
+            -99.187237,19.372971,0
+            -99.187241,19.37305,0
+            -99.187174,19.373877,0
+            -99.187115,19.374414,0
+            -99.187091,19.374656,0
+            -99.186941,19.375122,0
+            -99.186902,19.375267,0
+            -99.186873,19.375358,0
+            -99.186803,19.375555,0
+            -99.186803,19.375617,0
+            -99.186828,19.375692,0
+            -99.186866,19.375734,0
+            -99.18691,19.375769,0
+            -99.187511,19.375933,0
+            -99.187543,19.375955,0
+            -99.187597,19.375997,0
+            -99.187653,19.376027,0
+            -99.187703,19.376055,0
+            -99.18773,19.376066,0
+            -99.188141,19.376105,0
+            -99.188794,19.37607,0
+            -99.188829,19.376067,0
+            -99.188838,19.376041,0
+            -99.188842,19.375834,0
+            -99.188834,19.375768,0
+            -99.188775,19.375716,0
+            -99.188487,19.375714,0
+            -99.18823,19.375727,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>M. Mixcoac - Puerta Grande</name>
+        <styleUrl>#line-7CB342-4000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.188227,19.375728,0
+            -99.187989,19.375727,0
+            -99.187921,19.375675,0
+            -99.187861,19.375594,0
+            -99.187814,19.375483,0
+            -99.187921,19.3745,0
+            -99.187944,19.374116,0
+            -99.188056,19.37292,0
+            -99.188084,19.372556,0
+            -99.188167,19.37214,0
+            -99.188284,19.371248,0
+            -99.188371,19.370354,0
+            -99.188417,19.369964,0
+            -99.188485,19.369384,0
+            -99.188564,19.368725,0
+            -99.188635,19.368079,0
+            -99.188721,19.367396,0
+            -99.188806,19.366726,0
+            -99.188913,19.365787,0
+            -99.189044,19.364589,0
+            -99.189206,19.363387,0
+            -99.18923,19.363223,0
+            -99.189306,19.36317,0
+            -99.1894,19.363155,0
+            -99.189451,19.36315,0
+            -99.189682,19.363183,0
+            -99.189888,19.363208,0
+            -99.190182,19.363286,0
+            -99.190394,19.363346,0
+            -99.190588,19.363401,0
+            -99.190881,19.36351,0
+            -99.191075,19.363583,0
+            -99.191276,19.363637,0
+            -99.191479,19.363692,0
+            -99.1917,19.363746,0
+            -99.192156,19.363855,0
+            -99.19257,19.363951,0
+            -99.193132,19.364083,0
+            -99.193353,19.364115,0
+            -99.195404,19.364121,0
+            -99.195506,19.36417,0
+            -99.195551,19.364226,0
+            -99.195557,19.364342,0
+            -99.195569,19.364459,0
+            -99.195573,19.364819,0
+            -99.195557,19.365382,0
+            -99.195511,19.365615,0
+            -99.195512,19.36576,0
+            -99.195538,19.365836,0
+            -99.195643,19.36588,0
+            -99.195806,19.365889,0
+            -99.19811,19.366106,0
+            -99.200298,19.366297,0
+            -99.200827,19.366307,0
+            -99.201088,19.366315,0
+            -99.201617,19.366322,0
+            -99.202235,19.366335,0
+            -99.202938,19.366347,0
+            -99.203893,19.366368,0
+            -99.204259,19.366384,0
+            -99.205077,19.366418,0
+            -99.205376,19.366427,0
+            -99.205869,19.366464,0
+            -99.206292,19.366505,0
+            -99.206667,19.366508,0
+            -99.2075,19.366532,0
+            -99.207515,19.366148,0
+            -99.207532,19.365452,0
+            -99.208426,19.365473,0
+            -99.208698,19.365415,0
+            -99.209973,19.36503,0
+            -99.210434,19.364942,0
+            -99.210804,19.364893,0
+            -99.211052,19.364766,0
+            -99.211298,19.364537,0
+            -99.21133,19.364311,0
+            -99.211594,19.363713,0
+            -99.21178,19.363307,0
+            -99.211992,19.362969,0
+            -99.212214,19.362781,0
+            -99.212497,19.36259,0
+            -99.212687,19.362438,0
+            -99.212877,19.362236,0
+            -99.213075,19.362095,0
+            -99.213673,19.361823,0
+            -99.214206,19.361664,0
+            -99.21565,19.36111,0
+            -99.215839,19.361032,0
+            -99.216054,19.36081,0
+            -99.216259,19.360568,0
+            -99.216465,19.360428,0
+            -99.216684,19.36032,0
+            -99.217506,19.359568,0
+            -99.217867,19.359313,0
+            -99.218352,19.359146,0
+            -99.219946,19.358862,0
+            -99.220584,19.358738,0
+            -99.221094,19.358756,0
+            -99.221459,19.358832,0
+            -99.221974,19.358924,0
+            -99.223059,19.358945,0
+            -99.223365,19.358945,0
+            -99.22363,19.359077,0
+            -99.223746,19.359208,0
+            -99.223816,19.359378,0
+            -99.223803,19.359508,0
+            -99.2237,19.359629,0
+            -99.223522,19.359709,0
+            -99.222439,19.360098,0
+            -99.222324,19.360158,0
+            -99.222232,19.360268,0
+            -99.222157,19.360417,0
+            -99.222124,19.360644,0
+            -99.222175,19.360896,0
+            -99.222267,19.361268,0
+            -99.222473,19.361547,0
+            -99.222742,19.361764,0
+            -99.223057,19.361864,0
+            -99.223676,19.361948,0
+            -99.224082,19.362014,0
+            -99.224216,19.362146,0
+            -99.224203,19.362333,0
+            -99.22455,19.362202,0
+            -99.224903,19.362061,0
+            -99.225153,19.361964,0
+            -99.225613,19.36179,0
+            -99.225933,19.361681,0
+            -99.226548,19.361403,0
+            -99.226999,19.361176,0
+            -99.227391,19.360948,0
+            -99.227801,19.360698,0
+            -99.228563,19.360183,0
+            -99.228875,19.359983,0
+            -99.22915,19.359874,0
+            -99.229303,19.359874,0
+            -99.229426,19.359902,0
+            -99.229626,19.359992,0
+            -99.229814,19.360092,0
+            -99.229993,19.360153,0
+            -99.230208,19.360161,0
+            -99.230564,19.360071,0
+            -99.230694,19.360027,0
+            -99.230825,19.359995,0
+            -99.230942,19.359946,0
+            -99.231117,19.359823,0
+            -99.231289,19.359697,0
+            -99.231533,19.359541,0
+            -99.231668,19.35944,0
+            -99.231693,19.359353,0
+            -99.231777,19.359284,0
+            -99.231971,19.359154,0
+            -99.232703,19.358821,0
+            -99.2334,19.358498,0
+            -99.233934,19.358236,0
+            -99.234429,19.357961,0
+            -99.234724,19.357784,0
+            -99.235155,19.357533,0
+            -99.235814,19.357137,0
+            -99.236589,19.356623,0
+            -99.236978,19.356389,0
+            -99.237122,19.356316,0
+            -99.237288,19.356239,0
+            -99.237435,19.356146,0
+            -99.23773,19.355973,0
+            -99.237867,19.355911,0
+            -99.237997,19.355899,0
+            -99.238147,19.355903,0
+            -99.238394,19.35595,0
+            -99.238817,19.356014,0
+            -99.239115,19.356059,0
+            -99.239395,19.356124,0
+            -99.239585,19.356157,0
+            -99.239847,19.356194,0
+            -99.240003,19.3562,0
+            -99.240178,19.356176,0
+            -99.240317,19.356129,0
+            -99.240394,19.356088,0
+            -99.240447,19.356011,0
+            -99.240484,19.355931,0
+            -99.240532,19.355805,0
+            -99.240655,19.355544,0
+            -99.240755,19.355365,0
+            -99.240836,19.355269,0
+            -99.240949,19.35519,0
+            -99.241049,19.35516,0
+            -99.241255,19.355105,0
+            -99.241387,19.355047,0
+            -99.241468,19.354977,0
+            -99.241622,19.354859,0
+            -99.241722,19.354777,0
+            -99.241851,19.354686,0
+            -99.241975,19.354623,0
+            -99.242145,19.354562,0
+            -99.242769,19.354352,0
+            -99.242856,19.354317,0
+            -99.242921,19.354276,0
+            -99.242992,19.354225,0
+            -99.24341,19.353913,0
+            -99.243603,19.353793,0
+            -99.243791,19.353699,0
+            -99.244036,19.35362,0
+            -99.244124,19.353609,0
+            -99.244136,19.353628,0
+            -99.244181,19.353753,0
+            -99.24422,19.353907,0
+            -99.244309,19.354192,0
+            -99.244324,19.354298,0
+            -99.244374,19.354533,0
+            -99.244385,19.354611,0
+            -99.244394,19.354717,0
+            -99.244411,19.354773,0
+            -99.244446,19.354798,0
+            -99.244474,19.354792,0
+            -99.244498,19.354757,0
+            -99.244504,19.35473,0
+            -99.244479,19.354649,0
+            -99.244448,19.354471,0
+            -99.244421,19.354344,0
+            -99.244396,19.354253,0
+            -99.244375,19.354179,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Paradas dirección Metro Mixcoac</name>
+      <Placemark>
+        <name>Puerta Grande</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35380<br>Longitud: -99.24428<br>Empalme: 9C<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35380<br>Longitud: -99.24428<br>Empalme: 9C<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35380
+Longitud: -99.24428
+Empalme: 9C
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35380</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24428</value>
+          </Data>
+          <Data name="Empalme">
+            <value>9C</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24428,19.3538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anáhuac</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35412<br>Longitud: -99.24295<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35412<br>Longitud: -99.24295<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35412
+Longitud: -99.24295
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35412</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24295</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24295,19.35412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mixteca</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35484<br>Longitud: -99.24141<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35484<br>Longitud: -99.24141<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35484
+Longitud: -99.24141
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35484</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24141</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24141,19.35484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Retorno de las Palmas</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35581<br>Longitud: -99.24042<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35581<br>Longitud: -99.24042<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35581
+Longitud: -99.24042
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35581</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24042</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24042,19.35581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punta de Ceguayo</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35599<br>Longitud: -99.23939<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35599<br>Longitud: -99.23939<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35599
+Longitud: -99.23939
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35599</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23939</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23939,19.35599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charruas</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35618<br>Longitud: -99.23711<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35618<br>Longitud: -99.23711<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35618
+Longitud: -99.23711
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35618</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23711</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23711,19.35618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belem de las Flores</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35684<br>Longitud: -99.23605<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35684<br>Longitud: -99.23605<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35684
+Longitud: -99.23605
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35684</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23605</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23605,19.35684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Querétaro</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35748<br>Longitud: -99.23504<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35748<br>Longitud: -99.23504<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35748
+Longitud: -99.23504
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35748</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23504</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23504,19.35748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angel Reyes</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35850<br>Longitud: -99.23314<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35850<br>Longitud: -99.23314<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35850
+Longitud: -99.23314
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35850</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23314</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23314,19.3585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jalisco</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35906<br>Longitud: -99.23193<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35906<br>Longitud: -99.23193<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35906
+Longitud: -99.23193
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35906</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23193</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23193,19.35906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Pera</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35975<br>Longitud: -99.22942<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35975<br>Longitud: -99.22942<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35975
+Longitud: -99.22942
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35975</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22942</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22942,19.35975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36059<br>Longitud: -99.22774<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36059<br>Longitud: -99.22774<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36059
+Longitud: -99.22774
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36059</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22774</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22774,19.36059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gasolinera</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36125<br>Longitud: -99.22652<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36125<br>Longitud: -99.22652<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36125
+Longitud: -99.22652
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36125</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22652</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22652,19.36125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5 de Mayo</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36185<br>Longitud: -99.22516<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36185<br>Longitud: -99.22516<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36185
+Longitud: -99.22516
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36185</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22516</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22516,19.36185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36183<br>Longitud: -99.22410<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36183<br>Longitud: -99.22410<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36183
+Longitud: -99.22410
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36183</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22410</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2241,19.36183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portal Centenario</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36120<br>Longitud: -99.22243<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36120<br>Longitud: -99.22243<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36120
+Longitud: -99.22243
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36120</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22243</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22243,19.3612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 6</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35919<br>Longitud: -99.22395<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35919<br>Longitud: -99.22395<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35919
+Longitud: -99.22395
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35919</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22395</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22395,19.35919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ciudad Madera</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35860<br>Longitud: -99.22043<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35860<br>Longitud: -99.22043<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35860
+Longitud: -99.22043
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35860</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22043</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22043,19.3586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paseo de los Olmos</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35895<br>Longitud: -99.21862<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35895<br>Longitud: -99.21862<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35895
+Longitud: -99.21862
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35895</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21862</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21862,19.35895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Conalep</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36006<br>Longitud: -99.21667<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36006<br>Longitud: -99.21667<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36006
+Longitud: -99.21667
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36006</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21667</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21667,19.36006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tarango</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36159<br>Longitud: -99.21382<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36159<br>Longitud: -99.21382<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36159
+Longitud: -99.21382
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36159</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21382</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21382,19.36159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lomas del Anáhuac</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36435<br>Longitud: -99.21104<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36435<br>Longitud: -99.21104<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36435
+Longitud: -99.21104
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36435</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21104</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21104,19.36435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bodega</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36523<br>Longitud: -99.20866<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36523<br>Longitud: -99.20866<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36523
+Longitud: -99.20866
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36523</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20866</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20866,19.36523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Fe Milpa Alta</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36530<br>Longitud: -99.20648<br>Empalme: -<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36530<br>Longitud: -99.20648<br>Empalme: -<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36530
+Longitud: -99.20648
+Empalme: -
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36530</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20648</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20648,19.3653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36526<br>Longitud: -99.20467<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36526<br>Longitud: -99.20467<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36526
+Longitud: -99.20467
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36526</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20467</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20467,19.36526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iztapalapa</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36519<br>Longitud: -99.20225<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36519<br>Longitud: -99.20225<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36519
+Longitud: -99.20225
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36519</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20225</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20225,19.36519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacuba</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36503<br>Longitud: -99.19897<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36503<br>Longitud: -99.19897<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36503
+Longitud: -99.19897
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36503</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19897</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19897,19.36503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Lomas de Plateros</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36474<br>Longitud: -99.19591<br>Empalme: 124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36474<br>Longitud: -99.19591<br>Empalme: 124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36474
+Longitud: -99.19591
+Empalme: 124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36474</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19591</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19591,19.36474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liga Maya</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36340<br>Longitud: -99.19506<br>Empalme: 115A/124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36340<br>Longitud: -99.19506<br>Empalme: 115A/124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36340
+Longitud: -99.19506
+Empalme: 115A/124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36340</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19506</value>
+          </Data>
+          <Data name="Empalme">
+            <value>115A/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19506,19.3634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Periférico</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36356<br>Longitud: -99.19218<br>Empalme: 115A/124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36356<br>Longitud: -99.19218<br>Empalme: 115A/124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36356
+Longitud: -99.19218
+Empalme: 115A/124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36356</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19218</value>
+          </Data>
+          <Data name="Empalme">
+            <value>115A/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19218,19.36356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hosp. Darío Fernández</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36425<br>Longitud: -99.18884<br>Empalme: 13A/115A/121A/124/124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36425<br>Longitud: -99.18884<br>Empalme: 13A/115A/121A/124/124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36425
+Longitud: -99.18884
+Empalme: 13A/115A/121A/124/124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36425</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18884</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/121A/124/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18884,19.36425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Candelaria</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36873<br>Longitud: -99.18831<br>Empalme: 13A/115A/121A/124/124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36873<br>Longitud: -99.18831<br>Empalme: 13A/115A/121A/124/124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36873
+Longitud: -99.18831
+Empalme: 13A/115A/121A/124/124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36873</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18831</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/121A/124/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18831,19.36873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Río Mixcoac</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37127<br>Longitud: -99.18800<br>Empalme: 13A/115A/121A/124/124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37127<br>Longitud: -99.18800<br>Empalme: 13A/115A/121A/124/124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37127
+Longitud: -99.18800
+Empalme: 13A/115A/121A/124/124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37127</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18800</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/121A/124/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.188,19.37127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro Mixcoac</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37593<br>Longitud: -99.18723<br>Empalme: 1D/116/119B<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37593<br>Longitud: -99.18723<br>Empalme: 1D/116/119B<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37593
+Longitud: -99.18723
+Empalme: 1D/116/119B
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37593</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18723</value>
+          </Data>
+          <Data name="Empalme">
+            <value>1D/116/119B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18723,19.37593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mixcoac</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37577<br>Longitud: -99.18852<br>Empalme: 1D/116/119B/124A<br>Dirección: Metro Mixcoac<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37577<br>Longitud: -99.18852<br>Empalme: 1D/116/119B/124A<br>Dirección: Metro Mixcoac]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37577
+Longitud: -99.18852
+Empalme: 1D/116/119B/124A
+Dirección: Metro Mixcoac</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37577</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18852</value>
+          </Data>
+          <Data name="Empalme">
+            <value>1D/116/119B/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Mixcoac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18852,19.37577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Paradas dirección Puerta Grande</name>
+      <Placemark>
+        <name>Mixcoac</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37577<br>Longitud: -99.18852<br>Empalme: 1D/116/119B/124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37577<br>Longitud: -99.18852<br>Empalme: 1D/116/119B/124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37577
+Longitud: -99.18852
+Empalme: 1D/116/119B/124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37577</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18852</value>
+          </Data>
+          <Data name="Empalme">
+            <value>1D/116/119B/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18852,19.37577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Molinos</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37371<br>Longitud: -99.18804<br>Empalme: 13A/115A/116/119B/124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37371<br>Longitud: -99.18804<br>Empalme: 13A/115A/116/119B/124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37371
+Longitud: -99.18804
+Empalme: 13A/115A/116/119B/124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37371</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18804</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/116/119B/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18804,19.37371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Esperanza</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.37110<br>Longitud: -99.18836<br>Empalme: 13A/115A/116/119B/124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.37110<br>Longitud: -99.18836<br>Empalme: 13A/115A/116/119B/124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.37110
+Longitud: -99.18836
+Empalme: 13A/115A/116/119B/124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37110</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18836</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/116/119B/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18836,19.3711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Candelaria</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36928<br>Longitud: -99.18853<br>Empalme: 13A/115A/116/119B/124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36928<br>Longitud: -99.18853<br>Empalme: 13A/115A/116/119B/124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36928
+Longitud: -99.18853
+Empalme: 13A/115A/116/119B/124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36928</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18853</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/116/119B/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18853,19.36928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Superama</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36483<br>Longitud: -99.18909<br>Empalme: 13A/115A/116/119B/124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36483<br>Longitud: -99.18909<br>Empalme: 13A/115A/116/119B/124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36483
+Longitud: -99.18909
+Empalme: 13A/115A/116/119B/124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36483</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.18909</value>
+          </Data>
+          <Data name="Empalme">
+            <value>13A/115A/116/119B/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.18909,19.36483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Periférico</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36391<br>Longitud: -99.19194<br>Empalme: 115A/124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36391<br>Longitud: -99.19194<br>Empalme: 115A/124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36391
+Longitud: -99.19194
+Empalme: 115A/124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36391</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19194</value>
+          </Data>
+          <Data name="Empalme">
+            <value>115A/124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19194,19.36391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liga Maya</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36415<br>Longitud: -99.19536<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36415<br>Longitud: -99.19536<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36415
+Longitud: -99.19536
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36415</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19536</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19536,19.36415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lomas de Plateros</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36594<br>Longitud: -99.19595<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36594<br>Longitud: -99.19595<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36594
+Longitud: -99.19595
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36594</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19595</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19595,19.36594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacuba</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36620<br>Longitud: -99.19867<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36620<br>Longitud: -99.19867<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36620
+Longitud: -99.19867
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36620</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19867</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19867,19.3662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cuajimalpa</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36637<br>Longitud: -99.20081<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36637<br>Longitud: -99.20081<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36637
+Longitud: -99.20081
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36637</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20081</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20081,19.36637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xochimilco</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36642<br>Longitud: -99.20304<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36642<br>Longitud: -99.20304<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36642
+Longitud: -99.20304
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36642</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20304</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20304,19.36642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guadalupe Hidalgo</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36645<br>Longitud: -99.20412<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36645<br>Longitud: -99.20412<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36645
+Longitud: -99.20412
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36645</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20412</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20412,19.36645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alta Tensión</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36647<br>Longitud: -99.20495<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36647<br>Longitud: -99.20495<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36647
+Longitud: -99.20495
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36647</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20495</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20495,19.36647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mejía Delgado</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36649<br>Longitud: -99.20733<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36649<br>Longitud: -99.20733<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36649
+Longitud: -99.20733
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36649</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20733</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20733,19.36649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bodega</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36536<br>Longitud: -99.20883<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36536<br>Longitud: -99.20883<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36536
+Longitud: -99.20883
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36536</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20883</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20883,19.36536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lomas del Anáhuac</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36440<br>Longitud: -99.21131<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36440<br>Longitud: -99.21131<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36440
+Longitud: -99.21131
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36440</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21131</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21131,19.3644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tarango</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36183<br>Longitud: -99.21377<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36183<br>Longitud: -99.21377<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36183
+Longitud: -99.21377
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36183</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21377</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21377,19.36183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Conalep</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36000<br>Longitud: -99.21699<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36000<br>Longitud: -99.21699<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36000
+Longitud: -99.21699
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36000</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21699</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21699,19.36,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paseo de los Olmos</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35912<br>Longitud: -99.21847<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35912<br>Longitud: -99.21847<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35912
+Longitud: -99.21847
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35912</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21847</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21847,19.35912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ciudad Madera</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35880<br>Longitud: -99.22028<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35880<br>Longitud: -99.22028<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35880
+Longitud: -99.22028
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35880</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22028</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22028,19.3588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Martinica</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35914<br>Longitud: -99.22376<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35914<br>Longitud: -99.22376<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35914
+Longitud: -99.22376
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35914</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22376</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22376,19.35914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portal Centenario</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36115<br>Longitud: -99.22225<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36115<br>Longitud: -99.22225<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36115
+Longitud: -99.22225
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36115</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22225</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22225,19.36115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36198<br>Longitud: -99.22408<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36198<br>Longitud: -99.22408<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36198
+Longitud: -99.22408
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36198</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22408</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22408,19.36198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gasolinera</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36145<br>Longitud: -99.22647<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36145<br>Longitud: -99.22647<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36145
+Longitud: -99.22647
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36145</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22647</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22647,19.36145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.36106<br>Longitud: -99.22729<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.36106<br>Longitud: -99.22729<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.36106
+Longitud: -99.22729
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36106</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22729</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22729,19.36106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Pera</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35994<br>Longitud: -99.22903<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35994<br>Longitud: -99.22903<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35994
+Longitud: -99.22903
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35994</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22903</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22903,19.35994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jalisco</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35934<br>Longitud: -99.23181<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35934<br>Longitud: -99.23181<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35934
+Longitud: -99.23181
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35934</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23181</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23181,19.35934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angel Reyes</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35876<br>Longitud: -99.23301<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35876<br>Longitud: -99.23301<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35876
+Longitud: -99.23301
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35876</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23301</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23301,19.35876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Querétaro</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35757<br>Longitud: -99.23520<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35757<br>Longitud: -99.23520<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35757
+Longitud: -99.23520
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35757</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23520</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2352,19.35757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belem de las Flores</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35703<br>Longitud: -99.23607<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35703<br>Longitud: -99.23607<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35703
+Longitud: -99.23607
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35703</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23607</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23607,19.35703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charruas</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35642<br>Longitud: -99.23704<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35642<br>Longitud: -99.23704<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35642
+Longitud: -99.23704
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35642</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23704</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23704,19.35642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punta de Ceguayo</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35610<br>Longitud: -99.23911<br>Empalme: 124A<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35610<br>Longitud: -99.23911<br>Empalme: 124A<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35610
+Longitud: -99.23911
+Empalme: 124A
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35610</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.23911</value>
+          </Data>
+          <Data name="Empalme">
+            <value>124A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.23911,19.3561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Retorno de las Palmas</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35580<br>Longitud: -99.24057<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35580<br>Longitud: -99.24057<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35580
+Longitud: -99.24057
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35580</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24057</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24057,19.3558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mixteca</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35508<br>Longitud: -99.24136<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35508<br>Longitud: -99.24136<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35508
+Longitud: -99.24136
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35508</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24136</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24136,19.35508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anáhuac</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35417<br>Longitud: -99.24307<br>Empalme: -<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35417<br>Longitud: -99.24307<br>Empalme: -<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35417
+Longitud: -99.24307
+Empalme: -
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35417</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24307</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24307,19.35417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerta Grande</name>
+        <description><![CDATA[Descripción: Ruta: 124<br>Modalidad: Ordinario<br>Módulo: 1<br>Latitud: 19.35380<br>Longitud: -99.24428<br>Empalme: 9C<br>Dirección: Puerta Grande<br>Ruta: 124.0<br>Modalidad: Ordinario<br>Módulo: 1.0<br>Latitud: 19.35380<br>Longitud: -99.24428<br>Empalme: 9C<br>Dirección: Puerta Grande]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 124
+Modalidad: Ordinario
+Módulo: 1
+Latitud: 19.35380
+Longitud: -99.24428
+Empalme: 9C
+Dirección: Puerta Grande</value>
+          </Data>
+          <Data name="Ruta">
+            <value>124.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Ordinario</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.35380</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.24428</value>
+          </Data>
+          <Data name="Empalme">
+            <value>9C</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Puerta Grande</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.24428,19.3538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

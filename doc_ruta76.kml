@@ -1,0 +1,3753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>RTP | Ruta 76 | Centro Comercial Santa Fe - Metro Auditorio por Palmas</name>
+    <description>Costo: $4.00</description>
+    <Style id="icon-ci-1-labelson">
+      <IconStyle>
+        <scale>0.8</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="line-558B2F-4000-nodesc-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>4</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-558B2F-4000-nodesc-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-558B2F-4000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-558B2F-4000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-558B2F-4000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-7CB342-4000-nodesc-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>4</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-7CB342-4000-nodesc-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-7CB342-4000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7CB342-4000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7CB342-4000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ruta</name>
+      <Placemark>
+        <name>Santa Fe - M. Auditorio</name>
+        <styleUrl>#line-558B2F-4000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.279654,19.360997,0
+            -99.279547,19.361034,0
+            -99.279481,19.36112,0
+            -99.279345,19.361216,0
+            -99.279009,19.361335,0
+            -99.276546,19.362029,0
+            -99.275005,19.362485,0
+            -99.273534,19.362984,0
+            -99.272485,19.363401,0
+            -99.272149,19.363566,0
+            -99.270615,19.364331,0
+            -99.269038,19.365042,0
+            -99.268422,19.365279,0
+            -99.266684,19.365752,0
+            -99.266317,19.365873,0
+            -99.265831,19.366037,0
+            -99.265214,19.366223,0
+            -99.264793,19.366455,0
+            -99.264387,19.366772,0
+            -99.264014,19.367133,0
+            -99.262941,19.368212,0
+            -99.261863,19.36935,0
+            -99.260707,19.371055,0
+            -99.259033,19.372939,0
+            -99.260595,19.374664,0
+            -99.259997,19.375199,0
+            -99.258874,19.37599,0
+            -99.258088,19.376418,0
+            -99.254828,19.37805,0
+            -99.253246,19.378796,0
+            -99.251468,19.379608,0
+            -99.250167,19.380212,0
+            -99.249626,19.380842,0
+            -99.249017,19.381828,0
+            -99.248439,19.382234,0
+            -99.247746,19.382716,0
+            -99.247678,19.382887,0
+            -99.246568,19.383584,0
+            -99.246186,19.383817,0
+            -99.245054,19.38435,0
+            -99.244584,19.384614,0
+            -99.244288,19.384847,0
+            -99.24404,19.385144,0
+            -99.243689,19.385708,0
+            -99.243325,19.386371,0
+            -99.242928,19.386841,0
+            -99.241882,19.38751,0
+            -99.241136,19.388053,0
+            -99.240129,19.388595,0
+            -99.239696,19.38893,0
+            -99.239679,19.388938,0
+            -99.239456,19.38929,0
+            -99.238991,19.390507,0
+            -99.238786,19.391557,0
+            -99.238913,19.392042,0
+            -99.239202,19.392527,0
+            -99.239424,19.393254,0
+            -99.239589,19.394085,0
+            -99.239619,19.394366,0
+            -99.239415,19.394745,0
+            -99.239046,19.395078,0
+            -99.237638,19.396429,0
+            -99.235814,19.397604,0
+            -99.234856,19.398619,0
+            -99.233963,19.399463,0
+            -99.232834,19.400656,0
+            -99.230159,19.403884,0
+            -99.229187,19.404998,0
+            -99.22891,19.405257,0
+            -99.228665,19.405546,0
+            -99.228315,19.405608,0
+            -99.22812,19.405708,0
+            -99.227901,19.40589,0
+            -99.227716,19.406171,0
+            -99.227581,19.406719,0
+            -99.22769,19.407042,0
+            -99.227948,19.407297,0
+            -99.2281,19.407403,0
+            -99.228338,19.407614,0
+            -99.228598,19.407773,0
+            -99.229124,19.408476,0
+            -99.229422,19.409154,0
+            -99.229556,19.409552,0
+            -99.229615,19.410322,0
+            -99.229612,19.411961,0
+            -99.229663,19.412875,0
+            -99.229485,19.414014,0
+            -99.229414,19.414392,0
+            -99.228863,19.415862,0
+            -99.228451,19.416881,0
+            -99.227969,19.417501,0
+            -99.227036,19.418735,0
+            -99.226639,19.419152,0
+            -99.224786,19.42061,0
+            -99.224603,19.420663,0
+            -99.224465,19.420776,0
+            -99.224271,19.420983,0
+            -99.223742,19.421387,0
+            -99.223732,19.421404,0
+            -99.223542,19.421693,0
+            -99.22304,19.422578,0
+            -99.222369,19.424432,0
+            -99.22207,19.425311,0
+            -99.221796,19.425949,0
+            -99.221309,19.426438,0
+            -99.220633,19.426878,0
+            -99.219303,19.427273,0
+            -99.217889,19.427945,0
+            -99.216927,19.428493,0
+            -99.215799,19.429035,0
+            -99.215074,19.429418,0
+            -99.214497,19.429553,0
+            -99.213699,19.429644,0
+            -99.212084,19.429675,0
+            -99.211382,19.429711,0
+            -99.211433,19.429561,0
+            -99.211468,19.429275,0
+            -99.211422,19.429024,0
+            -99.211252,19.42867,0
+            -99.21098,19.428332,0
+            -99.210867,19.428157,0
+            -99.210765,19.427968,0
+            -99.210732,19.427747,0
+            -99.210697,19.427353,0
+            -99.210147,19.426716,0
+            -99.209819,19.426343,0
+            -99.209271,19.4255,0
+            -99.208959,19.424758,0
+            -99.208741,19.424846,0
+            -99.207703,19.425316,0
+            -99.20612,19.426488,0
+            -99.205258,19.427059,0
+            -99.20472,19.427274,0
+            -99.204123,19.427398,0
+            -99.20359,19.427376,0
+            -99.203474,19.427296,0
+            -99.203109,19.427062,0
+            -99.202436,19.426901,0
+            -99.202078,19.426956,0
+            -99.201226,19.42703,0
+            -99.200387,19.426948,0
+            -99.198398,19.426694,0
+            -99.195906,19.426288,0
+            -99.195745,19.426091,0
+            -99.195565,19.425867,0
+            -99.195512,19.425741,0
+            -99.195871,19.423484,0
+            -99.195906,19.423236,0
+            -99.195839,19.423075,0
+            -99.195758,19.422999,0
+            -99.194943,19.422872,0
+            -99.194251,19.422761,0
+            -99.194122,19.423494,0
+            -99.193854,19.425032,0
+            -99.193746,19.425608,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>M. Auditorio - Santa Fe</name>
+        <styleUrl>#line-7CB342-4000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.193746,19.425608,0
+            -99.193728,19.425699,0
+            -99.193715,19.425742,0
+            -99.193648,19.42579,0
+            -99.193481,19.425858,0
+            -99.193385,19.425904,0
+            -99.193278,19.4259,0
+            -99.191554,19.425614,0
+            -99.191146,19.425556,0
+            -99.190386,19.425461,0
+            -99.187728,19.425055,0
+            -99.187677,19.425185,0
+            -99.191352,19.425745,0
+            -99.195902,19.42642,0
+            -99.197763,19.426728,0
+            -99.201231,19.427261,0
+            -99.20149,19.42743,0
+            -99.202101,19.427748,0
+            -99.202536,19.427895,0
+            -99.202732,19.427935,0
+            -99.203449,19.427705,0
+            -99.204307,19.42752,0
+            -99.205004,19.427376,0
+            -99.205365,19.427809,0
+            -99.205984,19.428346,0
+            -99.206683,19.428756,0
+            -99.207499,19.429062,0
+            -99.207628,19.429041,0
+            -99.208139,19.429021,0
+            -99.208671,19.429077,0
+            -99.209214,19.429219,0
+            -99.209709,19.429447,0
+            -99.209924,19.429618,0
+            -99.21019,19.42931,0
+            -99.210532,19.429062,0
+            -99.210966,19.42889,0
+            -99.211414,19.428787,0
+            -99.211671,19.428727,0
+            -99.212062,19.428693,0
+            -99.212099,19.428728,0
+            -99.212024,19.429117,0
+            -99.211983,19.429375,0
+            -99.21199,19.429658,0
+            -99.211989,19.429899,0
+            -99.213545,19.429799,0
+            -99.213991,19.429799,0
+            -99.214758,19.429682,0
+            -99.219317,19.4275,0
+            -99.219594,19.427368,0
+            -99.220089,19.427196,0
+            -99.220647,19.427053,0
+            -99.221229,19.426711,0
+            -99.222008,19.426013,0
+            -99.2226,19.42457,0
+            -99.223112,19.422723,0
+            -99.22379,19.421727,0
+            -99.224388,19.421006,0
+            -99.224583,19.420964,0
+            -99.224778,19.420922,0
+            -99.224913,19.420795,0
+            -99.226868,19.419301,0
+            -99.228327,19.417568,0
+            -99.229151,19.415817,0
+            -99.229627,19.414185,0
+            -99.229748,19.413485,0
+            -99.229837,19.411976,0
+            -99.229787,19.409876,0
+            -99.229683,19.409162,0
+            -99.229396,19.408558,0
+            -99.22903,19.408088,0
+            -99.228501,19.407492,0
+            -99.228039,19.407194,0
+            -99.227866,19.407083,0
+            -99.227831,19.406884,0
+            -99.227859,19.40673,0
+            -99.228051,19.406498,0
+            -99.229068,19.405461,0
+            -99.230881,19.403251,0
+            -99.233057,19.400744,0
+            -99.23402,19.399668,0
+            -99.235028,19.398691,0
+            -99.235889,19.397811,0
+            -99.237286,19.396869,0
+            -99.237953,19.396437,0
+            -99.239553,19.394815,0
+            -99.239753,19.394229,0
+            -99.239436,19.392947,0
+            -99.239258,19.392323,0
+            -99.239117,19.391689,0
+            -99.239155,19.391246,0
+            -99.239152,19.390874,0
+            -99.239517,19.389697,0
+            -99.239951,19.388981,0
+            -99.241371,19.388128,0
+            -99.242789,19.387343,0
+            -99.243287,19.387105,0
+            -99.243604,19.386525,0
+            -99.243936,19.385747,0
+            -99.244123,19.38533,0
+            -99.244496,19.384955,0
+            -99.244679,19.384794,0
+            -99.24496,19.384617,0
+            -99.245204,19.384505,0
+            -99.245612,19.384342,0
+            -99.245839,19.384214,0
+            -99.24767,19.383036,0
+            -99.248155,19.382697,0
+            -99.24847,19.382477,0
+            -99.248734,19.382397,0
+            -99.251331,19.380791,0
+            -99.252539,19.379897,0
+            -99.253974,19.378927,0
+            -99.254513,19.37861,0
+            -99.255852,19.377984,0
+            -99.258138,19.376843,0
+            -99.259445,19.376159,0
+            -99.260583,19.375426,0
+            -99.2609,19.375196,0
+            -99.260941,19.375132,0
+            -99.26115,19.374964,0
+            -99.262338,19.374566,0
+            -99.262853,19.374336,0
+            -99.263375,19.374007,0
+            -99.264047,19.373533,0
+            -99.264223,19.373391,0
+            -99.264553,19.373087,0
+            -99.265069,19.372547,0
+            -99.265394,19.37197,0
+            -99.265673,19.371397,0
+            -99.26602,19.370577,0
+            -99.266402,19.369678,0
+            -99.266966,19.368453,0
+            -99.267279,19.367864,0
+            -99.267809,19.366871,0
+            -99.268402,19.36575,0
+            -99.268756,19.365382,0
+            -99.268842,19.365321,0
+            -99.270358,19.364613,0
+            -99.271772,19.363946,0
+            -99.272327,19.363646,0
+            -99.273282,19.363268,0
+            -99.274889,19.362695,0
+            -99.275921,19.362362,0
+            -99.280085,19.361106,0
+            -99.280363,19.361044,0
+            -99.280501,19.360984,0
+            -99.280767,19.360934,0
+            -99.281131,19.360802,0
+            -99.281495,19.36063,0
+            -99.281709,19.360438,0
+            -99.282535,19.35899,0
+            -99.282376,19.358902,0
+            -99.2819,19.359825,0
+            -99.28171,19.36017,0
+            -99.281513,19.360398,0
+            -99.281254,19.360598,0
+            -99.280394,19.360876,0
+            -99.279932,19.360434,0
+            -99.278994,19.359532,0
+            -99.278433,19.359193,0
+            -99.27823,19.359087,0
+            -99.277963,19.358847,0
+            -99.277762,19.358604,0
+            -99.277504,19.358058,0
+            -99.27747,19.357925,0
+            -99.277337,19.357913,0
+            -99.277278,19.35799,0
+            -99.27739,19.358252,0
+            -99.277643,19.358705,0
+            -99.277836,19.358938,0
+            -99.278116,19.359155,0
+            -99.278285,19.359314,0
+            -99.278754,19.359567,0
+            -99.278919,19.359671,0
+            -99.279118,19.359867,0
+            -99.279443,19.360161,0
+            -99.27966,19.36038,0
+            -99.279951,19.360663,0
+            -99.27996,19.360748,0
+            -99.279925,19.360852,0
+            -99.27981,19.360942,0
+            -99.279654,19.360985,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Paradas dirección Metro Auditorio</name>
+      <Placemark>
+        <name>Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.36094<br>Longitud: -99.27974<br>Empalme: 9C/34A/34B/76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.36094<br>Longitud: -99.27974<br>Empalme: 9C/34A/34B/76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.36094
+Longitud: -99.27974
+Empalme: 9C/34A/34B/76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36094</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.27974</value>
+          </Data>
+          <Data name="Empalme">
+            <value>9C/34A/34B/76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.27974,19.36094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Via Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.36214<br>Longitud: -99.27592<br>Empalme: 76/76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.36214<br>Longitud: -99.27592<br>Empalme: 76/76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.36214
+Longitud: -99.27592
+Empalme: 76/76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36214</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.27592</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76/76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.27592,19.36214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comercial Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.363787<br>Longitud: -99.27154757<br>Empalme: 76/76A/115/118<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.363787<br>Longitud: -99.27154757<br>Empalme: 76/76A/115/118<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.363787
+Longitud: -99.27154757
+Empalme: 76/76A/115/118
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.363787</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.27154757</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76/76A/115/118</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.271548,19.363787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ibero</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.367530<br>Longitud: -99.26354743<br>Empalme: 76/76A/115/118<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.367530<br>Longitud: -99.26354743<br>Empalme: 76/76A/115/118<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.367530
+Longitud: -99.26354743
+Empalme: 76/76A/115/118
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.367530</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.26354743</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76/76A/115/118</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.263547,19.36753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guillermo Gonzalez Camarena</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.368615<br>Longitud: -99.26245854<br>Empalme: 76/76A/115/118<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.368615<br>Longitud: -99.26245854<br>Empalme: 76/76A/115/118<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.368615
+Longitud: -99.26245854
+Empalme: 76/76A/115/118
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.368615</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.26245854</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76/76A/115/118</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.262459,19.368615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Citibanamex</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.373815<br>Longitud: -99.2596724<br>Empalme: 76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.373815<br>Longitud: -99.2596724<br>Empalme: 76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.373815
+Longitud: -99.2596724
+Empalme: 76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.373815</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.2596724</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.259672,19.373815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guillermo Haro</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.376052<br>Longitud: -99.25861447<br>Empalme: 76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.376052<br>Longitud: -99.25861447<br>Empalme: 76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.376052
+Longitud: -99.25861447
+Empalme: 76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.376052</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.25861447</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.258614,19.376052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patio Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.377287<br>Longitud: -99.25622841<br>Empalme: 76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.377287<br>Longitud: -99.25622841<br>Empalme: 76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.377287
+Longitud: -99.25622841
+Empalme: 76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.377287</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.25622841</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.256228,19.377287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Televisa Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.378427<br>Longitud: -99.25388852<br>Empalme: 76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.378427<br>Longitud: -99.25388852<br>Empalme: 76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.378427
+Longitud: -99.25388852
+Empalme: 76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.378427</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.25388852</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.253889,19.378427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colonia Madrazo</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.379911<br>Longitud: -99.25060043<br>Empalme: 76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.379911<br>Longitud: -99.25060043<br>Empalme: 76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.379911
+Longitud: -99.25060043
+Empalme: 76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.379911</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.25060043</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2506,19.379911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente Conafrut</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.386419<br>Longitud: -99.243366<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.386419<br>Longitud: -99.243366<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.386419
+Longitud: -99.243366
+Empalme: 76A/113B
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.386419</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.243366</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.243366,19.386419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Constituyentes</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.394909<br>Longitud: -99.239122<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.394909<br>Longitud: -99.239122<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.394909
+Longitud: -99.239122
+Empalme: 76A/113B
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.394909</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.239122</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.239122,19.394909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rivera de Cupia</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.396616<br>Longitud: -99.237276<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.396616<br>Longitud: -99.237276<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.396616
+Longitud: -99.237276
+Empalme: 76A/113B
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.396616</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.237276</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.237276,19.396616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castillo Miramar</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.399314<br>Longitud: -99.234069<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.399314<br>Longitud: -99.234069<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.399314
+Longitud: -99.234069
+Empalme: 76A/113B
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.399314</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.234069</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.234069,19.399314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castillo de Chapultepec</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.400252<br>Longitud: -99.233117<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.400252<br>Longitud: -99.233117<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.400252
+Longitud: -99.233117
+Empalme: 76A/113B
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.400252</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.233117</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.233117,19.400252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra de la Breña</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.402990<br>Longitud: -99.230797<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.402990<br>Longitud: -99.230797<br>Empalme: 76A/113B<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.402990
+Longitud: -99.230797
+Empalme: 76A/113B
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.402990</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.230797</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.230797,19.40299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Montes Auvernia</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.409157<br>Longitud: -99.22932227<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.409157<br>Longitud: -99.22932227<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.409157
+Longitud: -99.22932227
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.409157</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22932227</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.229322,19.409157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montañas Rocallosas</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.411811<br>Longitud: -99.22954906<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.411811<br>Longitud: -99.22954906<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.411811
+Longitud: -99.22954906
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.411811</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22954906</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.229549,19.411811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Tarahumara</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.413760<br>Longitud: -99.22942415<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.413760<br>Longitud: -99.22942415<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.413760
+Longitud: -99.22942415
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.413760</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22942415</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.229424,19.41376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Líbano</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.415639<br>Longitud: -99.22888767<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.415639<br>Longitud: -99.22888767<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.415639
+Longitud: -99.22888767
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.415639</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22888767</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.228888,19.415639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Ararat</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.417285<br>Longitud: -99.22807851<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.417285<br>Longitud: -99.22807851<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.417285
+Longitud: -99.22807851
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.417285</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22807851</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.228079,19.417285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Antuco</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.418997<br>Longitud: -99.22667332<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.418997<br>Longitud: -99.22667332<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.418997
+Longitud: -99.22667332
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.418997</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22667332</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.226673,19.418997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Aconcagua</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.420505<br>Longitud: -99.22476026<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.420505<br>Longitud: -99.22476026<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.420505
+Longitud: -99.22476026
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.420505</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22476026</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22476,19.420505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montañas Calizas</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.422499<br>Longitud: -99.222955<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.422499<br>Longitud: -99.222955<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.422499
+Longitud: -99.222955
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.422499</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.222955</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.222955,19.422499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Chimborazo</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.424282<br>Longitud: -99.222350<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.424282<br>Longitud: -99.222350<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.424282
+Longitud: -99.222350
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.424282</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.222350</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.22235,19.424282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cofre de Perote</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.426206<br>Longitud: -99.221448<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.426206<br>Longitud: -99.221448<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.426206
+Longitud: -99.221448
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.426206</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.221448</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.221448,19.426206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Gorda</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.427149<br>Longitud: -99.219517<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.427149<br>Longitud: -99.219517<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.427149
+Longitud: -99.219517
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.427149</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.219517</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.219517,19.427149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cerro de Mayka</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.427760<br>Longitud: -99.218294<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.427760<br>Longitud: -99.218294<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.427760
+Longitud: -99.218294
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.427760</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.218294</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.218294,19.42776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Tabor</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.428383<br>Longitud: -99.217068<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.428383<br>Longitud: -99.217068<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.428383
+Longitud: -99.217068
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.428383</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.217068</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.217068,19.428383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Stanovoi</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.429609<br>Longitud: -99.213956<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.429609<br>Longitud: -99.213956<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.429609
+Longitud: -99.213956
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.429609</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.213956</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.213956,19.429609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Covadonga</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.42969<br>Longitud: -99.21210<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.42969<br>Longitud: -99.21210<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.42969
+Longitud: -99.21210
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.42969</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21210</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2121,19.42969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Cordillera de los Andes</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.42901<br>Longitud: -99.21146<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.42901<br>Longitud: -99.21146<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.42901
+Longitud: -99.21146
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.42901</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21146</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21146,19.42901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prado Norte</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.42765<br>Longitud: -99.21075<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.42765<br>Longitud: -99.21075<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.42765
+Longitud: -99.21075
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.42765</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21075</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.21075,19.42765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Nevada</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.42597<br>Longitud: -99.20955<br>Empalme: -<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.42597<br>Longitud: -99.20955<br>Empalme: -<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.42597
+Longitud: -99.20955
+Empalme: -
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.42597</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20955</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20955,19.42597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prado Sur</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.42653<br>Longitud: -99.20595<br>Empalme: 76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.42653<br>Longitud: -99.20595<br>Empalme: 76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.42653
+Longitud: -99.20595
+Empalme: 76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.42653</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20595</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20595,19.42653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montes Urales</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.427115<br>Longitud: -99.204994<br>Empalme: 76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.427115<br>Longitud: -99.204994<br>Empalme: 76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.427115
+Longitud: -99.204994
+Empalme: 76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.427115</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.204994</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.204994,19.427115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Elbruz</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.426955<br>Longitud: -99.200583<br>Empalme: 76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.426955<br>Longitud: -99.200583<br>Empalme: 76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.426955
+Longitud: -99.200583
+Empalme: 76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.426955</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.200583</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.200583,19.426955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Julio Verne</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.426521<br>Longitud: -99.197674<br>Empalme: 76A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.426521<br>Longitud: -99.197674<br>Empalme: 76A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.426521
+Longitud: -99.197674
+Empalme: 76A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.426521</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.197674</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.197674,19.426521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Auditorio</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.425346<br>Longitud: -99.19371009<br>Empalme: 76A/300A<br>Dirección: Metro Auditorio<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.425346<br>Longitud: -99.19371009<br>Empalme: 76A/300A<br>Dirección: Metro Auditorio]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.425346
+Longitud: -99.19371009
+Empalme: 76A/300A
+Dirección: Metro Auditorio</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.425346</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19371009</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/300A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Metro Auditorio</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19371,19.425346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Paradas dirección Centro Comercial Santa Fe</name>
+      <Placemark>
+        <name>Auditorio</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.425346<br>Longitud: -99.19371009<br>Empalme: 76A/300A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.425346<br>Longitud: -99.19371009<br>Empalme: 76A/300A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.425346
+Longitud: -99.19371009
+Empalme: 76A/300A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.425346</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19371009</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/300A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.19371,19.425346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rubén Dario</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.425847<br>Longitud: -99.19118216<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.425847<br>Longitud: -99.19118216<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.425847
+Longitud: -99.19118216
+Empalme: 76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.425847</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19118216</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.191182,19.425847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro Auditorio</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.426169<br>Longitud: -99.19314917<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.426169<br>Longitud: -99.19314917<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.426169
+Longitud: -99.19314917
+Empalme: 76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.426169</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19314917</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.193149,19.426169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Julio Verne</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.426814<br>Longitud: -99.19744571<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.426814<br>Longitud: -99.19744571<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.426814
+Longitud: -99.19744571
+Empalme: 76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.426814</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.19744571</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.197446,19.426814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fuente de Petróleos</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.427705<br>Longitud: -99.2016798<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.427705<br>Longitud: -99.2016798<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.427705
+Longitud: -99.2016798
+Empalme: 76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.427705</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.2016798</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.20168,19.427705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montes Urales</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.427598<br>Longitud: -99.20504118<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.427598<br>Longitud: -99.20504118<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.427598
+Longitud: -99.20504118
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.427598</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20504118</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.205041,19.427598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Volcán</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.429001<br>Longitud: -99.20728916<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.429001<br>Longitud: -99.20728916<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.429001
+Longitud: -99.20728916
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.429001</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20728916</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.207289,19.429001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Cordillera de los Andes</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.429614<br>Longitud: -99.20976089<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.429614<br>Longitud: -99.20976089<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.429614
+Longitud: -99.20976089
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.429614</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.20976089</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.209761,19.429614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Mojada</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.428909<br>Longitud: -99.21115124<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.428909<br>Longitud: -99.21115124<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.428909
+Longitud: -99.21115124
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.428909</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21115124</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.211151,19.428909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Covadonga</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.429598<br>Longitud: -99.21185184<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.429598<br>Longitud: -99.21185184<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.429598
+Longitud: -99.21185184
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.429598</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21185184</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.211852,19.429598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Stanovoi</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.429897<br>Longitud: -99.21358512<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.429897<br>Longitud: -99.21358512<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.429897
+Longitud: -99.21358512
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.429897</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21358512</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.213585,19.429897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Tabor</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.428832<br>Longitud: -99.21679698<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.428832<br>Longitud: -99.21679698<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.428832
+Longitud: -99.21679698
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.428832</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21679698</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.216797,19.428832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Gorda</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.427672<br>Longitud: -99.21912557<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.427672<br>Longitud: -99.21912557<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.427672
+Longitud: -99.21912557
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.427672</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.21912557</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.219126,19.427672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cofre de Perote</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.426261<br>Longitud: -99.22178321<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.426261<br>Longitud: -99.22178321<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.426261
+Longitud: -99.22178321
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.426261</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22178321</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.221783,19.426261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Chimborazo</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.424749<br>Longitud: -99.22251701<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.424749<br>Longitud: -99.22251701<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.424749
+Longitud: -99.22251701
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.424749</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22251701</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.222517,19.424749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montañas Calizas</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.423115<br>Longitud: -99.22308424<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.423115<br>Longitud: -99.22308424<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.423115
+Longitud: -99.22308424
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.423115</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22308424</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.223084,19.423115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Aconcagua</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.421140<br>Longitud: -99.22440727<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.421140<br>Longitud: -99.22440727<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.421140
+Longitud: -99.22440727
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.421140</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22440727</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.224407,19.42114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Antuco</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.419469<br>Longitud: -99.22673178<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.419469<br>Longitud: -99.22673178<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.419469
+Longitud: -99.22673178
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.419469</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22673178</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.226732,19.419469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Ararat</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.417693<br>Longitud: -99.2281863<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.417693<br>Longitud: -99.2281863<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.417693
+Longitud: -99.2281863
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.417693</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.2281863</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.228186,19.417693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Líbano</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.416060<br>Longitud: -99.22904943<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.416060<br>Longitud: -99.22904943<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.416060
+Longitud: -99.22904943
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.416060</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22904943</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.229049,19.41606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Tarahumara</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.414403<br>Longitud: -99.22959348<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.414403<br>Longitud: -99.22959348<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.414403
+Longitud: -99.22959348
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.414403</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22959348</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.229593,19.414403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montañas Rocallosas</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.412232<br>Longitud: -99.22985635<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.412232<br>Longitud: -99.22985635<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.412232
+Longitud: -99.22985635
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.412232</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22985635</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.229856,19.412232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Montes Auvernia</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.409313<br>Longitud: -99.22972278<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.409313<br>Longitud: -99.22972278<br>Empalme: -<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.409313
+Longitud: -99.22972278
+Empalme: -
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.409313</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.22972278</value>
+          </Data>
+          <Data name="Empalme">
+            <value>-</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.229723,19.409313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Paseo de la Reforma</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.407235<br>Longitud: -99.228221<br>Empalme: 113B<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.407235<br>Longitud: -99.228221<br>Empalme: 113B<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.407235
+Longitud: -99.228221
+Empalme: 113B
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.407235</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.228221</value>
+          </Data>
+          <Data name="Empalme">
+            <value>113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.228221,19.407235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Vertientes</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.405922<br>Longitud: -99.228734<br>Empalme: 76A/113B<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.405922<br>Longitud: -99.228734<br>Empalme: 76A/113B<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.405922
+Longitud: -99.228734
+Empalme: 76A/113B
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.405922</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.228734</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.228734,19.405922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castilllo de Windsor</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.402634<br>Longitud: -99.231466<br>Empalme: 76A/113B<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.402634<br>Longitud: -99.231466<br>Empalme: 76A/113B<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.402634
+Longitud: -99.231466
+Empalme: 76A/113B
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.402634</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.231466</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.231466,19.402634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castillo de Chapultepec</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.400655<br>Longitud: -99.233192<br>Empalme: 76A/113B<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.400655<br>Longitud: -99.233192<br>Empalme: 76A/113B<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.400655
+Longitud: -99.233192
+Empalme: 76A/113B
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.400655</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.233192</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.233192,19.400655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rivera de Cupia</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.397085<br>Longitud: -99.237055<br>Empalme: 76A/113B<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.397085<br>Longitud: -99.237055<br>Empalme: 76A/113B<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.397085
+Longitud: -99.237055
+Empalme: 76A/113B
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.397085</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.237055</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.237055,19.397085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Constituyentes</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.393559<br>Longitud: -99.239731<br>Empalme: 76A/113B<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.393559<br>Longitud: -99.239731<br>Empalme: 76A/113B<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.393559
+Longitud: -99.239731
+Empalme: 76A/113B
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.393559</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.239731</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A/113B</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.239731,19.393559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente Conafrut</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.386396<br>Longitud: -99.243815<br>Empalme: 34A/76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.386396<br>Longitud: -99.243815<br>Empalme: 34A/76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.386396
+Longitud: -99.243815
+Empalme: 34A/76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.386396</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.243815</value>
+          </Data>
+          <Data name="Empalme">
+            <value>34A/76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.243815,19.386396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerta Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.38108<br>Longitud: -99.25094<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.38108<br>Longitud: -99.25094<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.38108
+Longitud: -99.25094
+Empalme: 76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.38108</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.25094</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.25094,19.38108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patio Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.37815<br>Longitud: -99.25561<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.37815<br>Longitud: -99.25561<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.37815
+Longitud: -99.25561
+Empalme: 76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37815</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.25561</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.25561,19.37815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paseo de los Tamarindos</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.37529<br>Longitud: -99.26085<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.37529<br>Longitud: -99.26085<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.37529
+Longitud: -99.26085
+Empalme: 76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37529</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.26085</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.26085,19.37529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ernest J. Piper</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.37204<br>Longitud: -99.26535<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.37204<br>Longitud: -99.26535<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.37204
+Longitud: -99.26535
+Empalme: 76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.37204</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.26535</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.26535,19.37204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vasco de Quiroga</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.36819<br>Longitud: -99.26708<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.36819<br>Longitud: -99.26708<br>Empalme: 76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.36819
+Longitud: -99.26708
+Empalme: 76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36819</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.26708</value>
+          </Data>
+          <Data name="Empalme">
+            <value>76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.26708,19.36819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antigua</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.364677<br>Longitud: -99.270361<br>Empalme: 9C/76A/115/118<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.364677<br>Longitud: -99.270361<br>Empalme: 9C/76A/115/118<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.364677
+Longitud: -99.270361
+Empalme: 9C/76A/115/118
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.364677</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.270361</value>
+          </Data>
+          <Data name="Empalme">
+            <value>9C/76A/115/118</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.270361,19.364677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comercial Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.363697<br>Longitud: -99.272355<br>Empalme: 9C/76A/115/118<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.363697<br>Longitud: -99.272355<br>Empalme: 9C/76A/115/118<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.363697
+Longitud: -99.272355
+Empalme: 9C/76A/115/118
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.363697</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.272355</value>
+          </Data>
+          <Data name="Empalme">
+            <value>9C/76A/115/118</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.272355,19.363697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Via Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.362554<br>Longitud: -99.275587<br>Empalme: 9C/76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.362554<br>Longitud: -99.275587<br>Empalme: 9C/76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.362554
+Longitud: -99.275587
+Empalme: 9C/76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.362554</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.275587</value>
+          </Data>
+          <Data name="Empalme">
+            <value>9C/76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.275587,19.362554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.361217<br>Longitud: -99.280030<br>Empalme: 9C/76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.361217<br>Longitud: -99.280030<br>Empalme: 9C/76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.361217
+Longitud: -99.280030
+Empalme: 9C/76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.361217</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.280030</value>
+          </Data>
+          <Data name="Empalme">
+            <value>9C/76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.28003,19.361217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Fe</name>
+        <description><![CDATA[Descripción: Ruta: 76<br>Modalidad: Expreso<br>Módulo: 1<br>Latitud: 19.36094<br>Longitud: -99.27974<br>Empalme: 9C/34A/34B/76A<br>Dirección: Centro Comercial Santa Fe<br>Ruta: 76.0<br>Modalidad: Expreso<br>Módulo: 1.0<br>Latitud: 19.36094<br>Longitud: -99.27974<br>Empalme: 9C/34A/34B/76A<br>Dirección: Centro Comercial Santa Fe]]></description>
+        <styleUrl>#icon-ci-1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Ruta: 76
+Modalidad: Expreso
+Módulo: 1
+Latitud: 19.36094
+Longitud: -99.27974
+Empalme: 9C/34A/34B/76A
+Dirección: Centro Comercial Santa Fe</value>
+          </Data>
+          <Data name="Ruta">
+            <value>76.0</value>
+          </Data>
+          <Data name="Modalidad">
+            <value>Expreso</value>
+          </Data>
+          <Data name="Módulo">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitud">
+            <value>19.36094</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-99.27974</value>
+          </Data>
+          <Data name="Empalme">
+            <value>9C/34A/34B/76A</value>
+          </Data>
+          <Data name="Dirección">
+            <value>Centro Comercial Santa Fe</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.27974,19.36094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
