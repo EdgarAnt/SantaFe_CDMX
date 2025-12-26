@@ -65,7 +65,7 @@
         .route-selector {
             position: fixed;
             top: 0;
-            left: -280px;
+            left: -100%;
             width: 280px;
             height: 100vh;
             z-index: 1000;
@@ -74,10 +74,12 @@
             box-shadow: 2px 0 10px rgba(0,0,0,0.2);
             overflow-y: auto;
             transition: left 0.3s ease;
+            visibility: hidden;
         }
 
         .route-selector.open {
             left: 0;
+            visibility: visible;
         }
 
         /* Overlay para cerrar el menú */
